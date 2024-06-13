@@ -1,0 +1,8590 @@
+<table class="wikitable sortable static-row-numbers static-row-header-text">
+ <tbody>
+  <tr>
+   <th>
+    Name
+   </th>
+   <th>
+    Nepali
+   </th>
+   <th>
+    District
+   </th>
+   <th>
+    Province
+   </th>
+   <th>
+    Population (
+    <a href="/wiki/2021_Nepal_census" title="2021 Nepal census">
+     2021
+    </a>
+    )
+   </th>
+   <th>
+    Area
+   </th>
+   <th>
+    Website
+   </th>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Budhanilkantha" title="Budhanilkantha">
+     Budhanilkantha
+    </a>
+   </td>
+   <td>
+    बुढानिलकण्ठ
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    179,688
+   </td>
+   <td>
+    34.8
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.budhanilkanthamun.gov.np/en" rel="nofollow">
+     [18]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Birendranagar" title="Birendranagar">
+     Birendranagar
+    </a>
+   </td>
+   <td>
+    वीरेन्द्रनगर
+   </td>
+   <td>
+    <a href="/wiki/Surkhet_District" title="Surkhet District">
+     Surkhet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    154,886
+   </td>
+   <td>
+    245.06
+   </td>
+   <td>
+    <a class="external autonumber" href="http://birendranagarmun.gov.np/en" rel="nofollow">
+     [19]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Tarakeshwar" title="Tarakeshwar">
+     Tarakeshwar
+    </a>
+   </td>
+   <td>
+    तारकेश्वर
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    151,508
+   </td>
+   <td>
+    54.95
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.tarakeshwormun.gov.np/en" rel="nofollow">
+     [20]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Gokarneshwar" title="Gokarneshwar">
+     Gokarneshwar
+    </a>
+   </td>
+   <td>
+    गोकर्णेश्वर
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    151,200
+   </td>
+   <td>
+    58.5
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gokarneshwormun.gov.np/en" rel="nofollow">
+     [21]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Tilottama_Municipality" title="Tilottama Municipality">
+     Tilottama
+    </a>
+   </td>
+   <td>
+    तिलोत्तमा
+   </td>
+   <td>
+    <a href="/wiki/Rupandehi_District" title="Rupandehi District">
+     Rupandehi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    149,657
+   </td>
+   <td>
+    126.19
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.tilottamamun.gov.np/en" rel="nofollow">
+     [22]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Suryabinayak_Municipality" title="Suryabinayak Municipality">
+     Suryabinayak
+    </a>
+   </td>
+   <td>
+    सूर्यविनायक
+   </td>
+   <td>
+    <a href="/wiki/Bhaktapur_District" title="Bhaktapur District">
+     Bhaktapur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    137,971
+   </td>
+   <td>
+    42.45
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.suryabinayakmun.gov.np/en" rel="nofollow">
+     [23]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Chandragiri_Municipality" title="Chandragiri Municipality">
+     Chandragiri
+    </a>
+   </td>
+   <td>
+    चन्द्रागिरी
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    136,928
+   </td>
+   <td>
+    43.9
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chandragirimun.gov.np/en" rel="nofollow">
+     [24]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Tokha" title="Tokha">
+     Tokha
+    </a>
+   </td>
+   <td>
+    टोखा
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    135,741
+   </td>
+   <td>
+    17.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.tokhamun.gov.np/en" rel="nofollow">
+     [25]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kageshwari-Manohara" title="Kageshwari-Manohara">
+     Kageshwari-Manohara
+    </a>
+   </td>
+   <td>
+    कागेश्वरी मनोहरा
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    133,327
+   </td>
+   <td>
+    27.38
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kageshworimanoharamun.gov.np/en" rel="nofollow">
+     [26]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Mechinagar" title="Mechinagar">
+     Mechinagar
+    </a>
+   </td>
+   <td>
+    मेचीनगर
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    131,520
+   </td>
+   <td>
+    192.85
+   </td>
+   <td>
+    <a class="external autonumber" href="https://mechinagarmun.gov.np/" rel="nofollow">
+     [27]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Bhimdatta" title="Bhimdatta">
+     Bhimdatta
+    </a>
+   </td>
+   <td>
+    भीमदत्त
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    123,316
+   </td>
+   <td>
+    78.24
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bheemdattamun.gov.np/en" rel="nofollow">
+     [28]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Sundar_Haraicha" title="Sundar Haraicha">
+     Sundar Haraincha
+    </a>
+   </td>
+   <td>
+    सुन्दरहरैंचा
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    121,305
+   </td>
+   <td>
+    110.16
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sundardularimun.gov.np/en" rel="nofollow">
+     [29]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Madhyapur_Thimi" title="Madhyapur Thimi">
+     Madhyapur Thimi
+    </a>
+   </td>
+   <td>
+    मध्यपुर थिमी
+   </td>
+   <td>
+    <a href="/wiki/Bhaktapur_District" title="Bhaktapur District">
+     Bhaktapur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    119,955
+   </td>
+   <td>
+    11.47
+   </td>
+   <td>
+    <a class="external autonumber" href="http://madhyapurthimimun.gov.np/en" rel="nofollow">
+     [30]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Mahalaxmi,_Lalitapur" title="Mahalaxmi, Lalitapur">
+     Mahalaxmi
+    </a>
+   </td>
+   <td>
+    महालक्ष्मी
+   </td>
+   <td>
+    <a href="/wiki/Lalitpur_District,_Nepal" title="Lalitpur District, Nepal">
+     Lalitpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    118,710
+   </td>
+   <td>
+    26.51
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mahalaxmimun.gov.np/en" rel="nofollow">
+     [31]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Birtamod" title="Birtamod">
+     Birtamod
+    </a>
+   </td>
+   <td>
+    बिर्तामोड
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    117,355
+   </td>
+   <td>
+    78.24
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.birtamodmun.gov.np/en" rel="nofollow">
+     [32]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Nagarjun_Municipality" title="Nagarjun Municipality">
+     Nagarjun
+    </a>
+   </td>
+   <td>
+    नागार्जुन
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    115,507
+   </td>
+   <td>
+    29.85
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.nagarjunmun.gov.np/en" rel="nofollow">
+     [33]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Damak" title="Damak">
+     Damak
+    </a>
+   </td>
+   <td>
+    दमक
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    107,410
+   </td>
+   <td>
+    70.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://damakmun.gov.np/en" rel="nofollow">
+     [34]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Triyuga" title="Triyuga">
+     Triyuga
+    </a>
+   </td>
+   <td>
+    त्रियुगा
+   </td>
+   <td>
+    <a href="/wiki/Udayapur_District" title="Udayapur District">
+     Udayapur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    104,375
+   </td>
+   <td>
+    547.43
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.triyugamun.gov.np/en" rel="nofollow">
+     [35]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Lahan,_Nepal" title="Lahan, Nepal">
+     Lahan
+    </a>
+   </td>
+   <td>
+    लहान
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    102,955
+   </td>
+   <td>
+    167.17
+   </td>
+   <td>
+    <a class="external autonumber" href="http://lahanmun.gov.np/en" rel="nofollow">
+     [36]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Godawari,_Lalitpur" title="Godawari, Lalitpur">
+     Godawari
+    </a>
+   </td>
+   <td>
+    गोदावरी
+   </td>
+   <td>
+    <a href="/wiki/Lalitpur_District,_Nepal" title="Lalitpur District, Nepal">
+     Lalitpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    100,972
+   </td>
+   <td>
+    96.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://godawarimunlalitpur.gov.np/en" rel="nofollow">
+     [37]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kohalpur" title="Kohalpur">
+     Kohalpur
+    </a>
+   </td>
+   <td>
+    कोहलपुर
+   </td>
+   <td>
+    <a href="/wiki/Banke_District" title="Banke District">
+     Banke
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    100,289
+   </td>
+   <td>
+    184.26
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kohalpurmun.gov.np/en" rel="nofollow">
+     [38]
+    </a>
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Tikapur" title="Tikapur">
+     Tikapur
+    </a>
+   </td>
+   <td>
+    टिकापुर
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Kailali_district" title="Kailali district">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    90,115
+   </td>
+   <td>
+    121.92
+   </td>
+   <td>
+    <a class="external autonumber" href="http://tikapurmun.gov.np/en" rel="nofollow">
+     [39]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Siraha" title="Siraha">
+     Siraha
+    </a>
+   </td>
+   <td>
+    सिरहा
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    82,531
+   </td>
+   <td>
+    94.2
+   </td>
+   <td>
+    <a class="external autonumber" href="http://sirahamun.gov.np/en" rel="nofollow">
+     [40]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Bhaktapur" title="Bhaktapur">
+     Bhaktapur
+    </a>
+   </td>
+   <td>
+    भक्तपुर
+   </td>
+   <td>
+    <a href="/wiki/Bhaktapur_District" title="Bhaktapur District">
+     Bhaktapur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    81,728
+   </td>
+   <td>
+    6.89
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bhaktapurmun.gov.np/en" rel="nofollow">
+     [41]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Attariya_Municipality" title="Attariya Municipality">
+     Godawari
+    </a>
+   </td>
+   <td>
+    गोदावरी
+   </td>
+   <td>
+    <a href="/wiki/Kailali_District" title="Kailali District">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    78,018
+   </td>
+   <td>
+    305.63
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.attariyamun.gov.np/en" rel="nofollow">
+     [42]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Barahakshetra_Municipality" title="Barahakshetra Municipality">
+     Barahachhetra
+    </a>
+   </td>
+   <td>
+    बराहक्षेत्र
+   </td>
+   <td>
+    <a href="/wiki/Sunsari_District" title="Sunsari District">
+     Sunsari
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    77,408
+   </td>
+   <td>
+    222.09
+   </td>
+   <td>
+    <a class="external autonumber" href="http://barahamun.gov.np/" rel="nofollow">
+     [43]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Taulihawa,_Nepal" title="Taulihawa, Nepal">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    कपिलवस्तु
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    76,394
+   </td>
+   <td>
+    136.91
+   </td>
+   <td>
+    <a class="external autonumber" href="http://kapilvastumun.gov.np/en" rel="nofollow">
+     [44]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Lamki_Chuha_Municipality" title="Lamki Chuha Municipality">
+     Lamki Chuha
+    </a>
+   </td>
+   <td>
+    लम्की चुहा
+   </td>
+   <td>
+    <a href="/wiki/Kailali_District" title="Kailali District">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    90,941
+   </td>
+   <td>
+    225
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180402220827/http://www.lamkichuhamun.gov.np/en" rel="nofollow">
+     [45]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Bardaghat_Municipality" title="Bardaghat Municipality">
+     Bardaghat
+    </a>
+   </td>
+   <td>
+    बर्दघाट
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Parasi_District" title="Parasi District">
+     Nawalparasi West
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    76,703
+   </td>
+   <td>
+    162.05
+   </td>
+   <td>
+    <a class="external text" href="https://bardaghatmun.gov.np/" rel="nofollow">
+     [8]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Ghodaghodi_Municipality" title="Ghodaghodi Municipality">
+     Ghodaghodi
+    </a>
+   </td>
+   <td>
+    घोडाघोडी
+   </td>
+   <td>
+    <a href="/wiki/Kailali_District" title="Kailali District">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    75,586
+   </td>
+   <td>
+    354.45
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.ghodaghodimun.gov.np/en" rel="nofollow">
+     [46]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Banganga,_Nepal" title="Banganga, Nepal">
+     Banganga
+    </a>
+   </td>
+   <td>
+    बाणगंगा
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    75,242
+   </td>
+   <td>
+    233.68
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bangangamun.gov.np/en" rel="nofollow">
+     [47]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Lumbini_Sanskritik" title="Lumbini Sanskritik">
+     Lumbini Sanskritik
+    </a>
+   </td>
+   <td>
+    लुम्बिनी सांस्कृतिक
+   </td>
+   <td>
+    <a href="/wiki/Rupandehi_District" title="Rupandehi District">
+     Rupandehi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    72,497
+   </td>
+   <td>
+    112.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.lumbinisanskritikmun.gov.np" rel="nofollow">
+     [48]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Chandrapur_Municipality" title="Chandrapur Municipality">
+     Chandrapur
+    </a>
+   </td>
+   <td>
+    चन्द्रपुर
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    72,059
+   </td>
+   <td>
+    249.96
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chandrapurmun.gov.np/en" rel="nofollow">
+     [49]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Vyas_Municipality" title="Vyas Municipality">
+     Vyas
+    </a>
+   </td>
+   <td>
+    व्यास
+   </td>
+   <td>
+    <a href="/wiki/Tanahun_District" title="Tanahun District">
+     Tanahun
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    70,335
+   </td>
+   <td>
+    248
+   </td>
+   <td>
+    <a class="external autonumber" href="http://vyasmun.gov.np/en" rel="nofollow">
+     [50]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Ratnanagar" title="Ratnanagar">
+     Ratnanagar
+    </a>
+   </td>
+   <td>
+    रत्ननगर
+   </td>
+   <td>
+    <a href="/wiki/Chitwan_District" title="Chitwan District">
+     Chitwan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    69,848
+   </td>
+   <td>
+    68.68
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180523061235/http://www.ratnanagarmunicipality.gov.np/" rel="nofollow">
+     [51]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Barahathwa_Municipality" title="Barahathwa Municipality">
+     Barahathwa
+    </a>
+   </td>
+   <td>
+    बरहथवा
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    69,822
+   </td>
+   <td>
+    107.05
+   </td>
+   <td>
+    <a class="external autonumber" href="http://barhathwamun.gov.np/en" rel="nofollow">
+     [52]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Rajbiraj" title="Rajbiraj">
+     Rajbiraj
+    </a>
+   </td>
+   <td>
+    राजविराज
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    69,086
+    <sup class="reference" id="cite_ref-:0_10-0">
+     <a href="#cite_note-:0-10">
+      [10]
+     </a>
+    </sup>
+   </td>
+   <td>
+    55.64
+    <sup class="reference" id="cite_ref-:0_10-1">
+     <a href="#cite_note-:0-10">
+      [10]
+     </a>
+    </sup>
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rajbirajmun.gov.np/en" rel="nofollow">
+     [53]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Barbardiya" title="Barbardiya">
+     Barbardiya
+    </a>
+   </td>
+   <td>
+    बारबर्दिया
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    68,012
+   </td>
+   <td>
+    226.09
+   </td>
+   <td>
+    <a class="external autonumber" href="http://barbardiyamun.gov.np/" rel="nofollow">
+     [54]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Banepa" title="Banepa">
+     Banepa
+    </a>
+   </td>
+   <td>
+    बनेपा
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    67,629
+   </td>
+   <td>
+    54.59
+   </td>
+   <td>
+    <a class="external autonumber" href="http://banepamun.gov.np/en" rel="nofollow">
+     [55]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Shivaraj_Municipality" title="Shivaraj Municipality">
+     Shivaraj
+    </a>
+   </td>
+   <td>
+    शिवराज
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    66,781
+   </td>
+   <td>
+    284.07
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shivarajmun.gov.np/en" rel="nofollow">
+     [56]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Gularia" title="Gularia">
+     Gulariya
+    </a>
+   </td>
+   <td>
+    गुलरिया
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    66,679
+   </td>
+   <td>
+    118.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gulariyamun.gov.np/en" rel="nofollow">
+     [57]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Gaushala,_Nepal" title="Gaushala, Nepal">
+     Gaushala
+    </a>
+   </td>
+   <td>
+    गौशाला
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    66,673
+   </td>
+   <td>
+    144.73
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.gaushalamun.gov.np/en" rel="nofollow">
+     [58]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bardibas" title="Bardibas">
+     Bardibas
+    </a>
+   </td>
+   <td>
+    बर्दिबास
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    66,354
+   </td>
+   <td>
+    315.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bardibasmun.gov.np/en" rel="nofollow">
+     [59]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Belbari" title="Belbari">
+     Belbari
+    </a>
+   </td>
+   <td>
+    बेलवारी
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    65,892
+   </td>
+   <td>
+    132.79
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.belbarimun.gov.np/en" rel="nofollow">
+     [60]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kirtipur" title="Kirtipur">
+     Kirtipur
+    </a>
+   </td>
+   <td>
+    किर्तिपुर
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    65,602
+   </td>
+   <td>
+    14.76
+   </td>
+   <td>
+    <a class="external autonumber" href="http://kirtipurmun.gov.np/en" rel="nofollow">
+     [61]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Bhadrapur,_Mechi" title="Bhadrapur, Mechi">
+     Bhadrapur
+    </a>
+   </td>
+   <td>
+    भद्रपुर
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    65,543
+   </td>
+   <td>
+    96.35
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bhadrapur.municipality.gov.np/en" rel="nofollow">
+     [62]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Dudhauli" title="Dudhauli">
+     Dudhauli
+    </a>
+   </td>
+   <td>
+    दुधौली
+   </td>
+   <td>
+    <a href="/wiki/Sindhuli_District" title="Sindhuli District">
+     Sindhuli
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    65,302
+   </td>
+   <td>
+    390.39
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dudhaulimun.gov.np/en" rel="nofollow">
+     [63]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kamalamai" title="Kamalamai">
+     Kamalamai
+    </a>
+   </td>
+   <td>
+    कमलामाई
+   </td>
+   <td>
+    <a href="/wiki/Sindhuli_District" title="Sindhuli District">
+     Sindhuli
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    65,064
+   </td>
+   <td>
+    482.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://kamalamaimun.gov.np/en" rel="nofollow">
+     [64]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Buddhabhumi" title="Buddhabhumi">
+     Buddhabhumi
+    </a>
+   </td>
+   <td>
+    बुद्धभूमी
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    64,949
+   </td>
+   <td>
+    366.67
+   </td>
+   <td>
+    <a class="external autonumber" href="http://buddhabhumimun.gov.np/" rel="nofollow">
+     [65]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Shivasatakshi_Municipality" title="Shivasatakshi Municipality">
+     Shivasatakshi
+    </a>
+   </td>
+   <td>
+    शिवसताक्षि
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    64,596
+   </td>
+   <td>
+    145.87
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shivasataximun.gov.np/en" rel="nofollow">
+     [66]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Inaruwa,_Kosi" title="Inaruwa, Kosi">
+     Inaruwa
+    </a>
+   </td>
+   <td>
+    ईनरुवा
+   </td>
+   <td>
+    <a href="/wiki/Sunsari_District" title="Sunsari District">
+     Sunsari
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    63,593
+   </td>
+   <td>
+    77.92
+   </td>
+   <td>
+    <a class="external autonumber" href="http://inaruwamun.gov.np/en" rel="nofollow">
+     [67]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Siddharthanagar" title="Siddharthanagar">
+     Siddharthanagar
+    </a>
+   </td>
+   <td>
+    सिद्धार्थनगर
+   </td>
+   <td>
+    <a href="/wiki/Rupandehi_District" title="Rupandehi District">
+     Rupandehi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    63,483
+   </td>
+   <td>
+    36.03
+   </td>
+   <td>
+    <a class="external autonumber" href="http://siddharthanagarmun.gov.np/en" rel="nofollow">
+     [68]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Pathari-Sanischare_Municipality" title="Pathari-Sanischare Municipality">
+     Pathari-Shanischare
+    </a>
+   </td>
+   <td>
+    पथरी शनिश्चरे
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    62,440
+   </td>
+   <td>
+    79.81
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.patharishanishcharemun.gov.np/en" rel="nofollow">
+     [69]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kawasoti" title="Kawasoti">
+     Kawasoti
+    </a>
+   </td>
+   <td>
+    कावासोती
+   </td>
+   <td>
+    <a href="/wiki/Nawalpur_District" title="Nawalpur District">
+     Nawalpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    62,421
+   </td>
+   <td>
+    108.34
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20170904015711/http://www.kawasotimun.gov.np/en" rel="nofollow">
+     [70]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Krishnanagar,_Nepal" title="Krishnanagar, Nepal">
+     Krishnanagar
+    </a>
+   </td>
+   <td>
+    कृष्णनगर
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    62,370
+   </td>
+   <td>
+    96.66
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.krishnanagarmun.gov.np/en" rel="nofollow">
+     [71]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Arjundhara_Municipality" title="Arjundhara Municipality">
+     Arjundhara
+    </a>
+   </td>
+   <td>
+    अर्जुनधारा
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    60,204
+   </td>
+   <td>
+    109.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shaniarjunmun.gov.np/en" rel="nofollow">
+     [72]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Ishwarpur" title="Ishwarpur">
+     Ishwarpur
+    </a>
+   </td>
+   <td>
+    ईश्वरपूर
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    59,986
+   </td>
+   <td>
+    163.83
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.ishworpurmun.gov.np/en" rel="nofollow">
+     [73]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Rajapur,_Nepal" title="Rajapur, Nepal">
+     Rajapur
+    </a>
+   </td>
+   <td>
+    राजापुर
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    59,553
+   </td>
+   <td>
+    127.08
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rajapurmun.gov.np/en" rel="nofollow">
+     [74]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Ramgram,_Nepal" title="Ramgram, Nepal">
+     Ramgram
+    </a>
+   </td>
+   <td>
+    रामग्राम
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Parasi_District" title="Parasi District">
+     Parasi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    59,455
+   </td>
+   <td>
+    128.32
+   </td>
+   <td>
+    <a class="external autonumber" href="http://ramgrammun.gov.np/en" rel="nofollow">
+     [75]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Lalbandi" title="Lalbandi">
+     Lalbandi
+    </a>
+   </td>
+   <td>
+    लालबन्दी
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    59,395
+   </td>
+   <td>
+    238.5
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.laalbandimun.gov.np/en" rel="nofollow">
+     [76]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Gaindakot_Municipality" title="Gaindakot Municipality">
+     Gaindakot
+    </a>
+   </td>
+   <td>
+    गैडाकोट
+   </td>
+   <td>
+    <a href="/wiki/Nawalpur_District" title="Nawalpur District">
+     Nawalpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    58,836
+   </td>
+   <td>
+    159.93
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.gaindakotmun.gov.np/en" rel="nofollow">
+     [77]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Jaleshwar" title="Jaleshwar">
+     Jaleshwar
+    </a>
+   </td>
+   <td>
+    जलेश्वर
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    58,549
+   </td>
+   <td>
+    44.26
+   </td>
+   <td>
+    <a class="external autonumber" href="http://jaleshwarmun.gov.np/en" rel="nofollow">
+     [78]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Nilkantha,_Nepal" title="Nilkantha, Nepal">
+     Nilkantha
+    </a>
+   </td>
+   <td>
+    निलकण्ठ
+   </td>
+   <td>
+    <a href="/wiki/Dhading_District" title="Dhading District">
+     Dhading
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    58,515
+   </td>
+   <td>
+    197.7
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.nilkanthamun.gov.np/en" rel="nofollow">
+     [79]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Baglung" title="Baglung">
+     Baglung
+    </a>
+   </td>
+   <td>
+    बागलुङ
+   </td>
+   <td>
+    <a href="/wiki/Baglung_District" title="Baglung District">
+     Baglung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    57,823
+   </td>
+   <td>
+    98.01
+   </td>
+   <td>
+    <a class="external autonumber" href="http://baglungmun.gov.np/?language=en" rel="nofollow">
+     [80]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Rapti_Municipality" title="Rapti Municipality">
+     Rapti
+    </a>
+   </td>
+   <td>
+    राप्ती
+   </td>
+   <td>
+    <a href="/wiki/Chitwan_District" title="Chitwan District">
+     Chitwan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    57,107
+   </td>
+   <td>
+    212.31
+   </td>
+   <td>
+    <a class="external autonumber" href="http://raptimun.gov.np/en" rel="nofollow">
+     [81]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Suryodaya_Municipality" title="Suryodaya Municipality">
+     Suryodaya
+    </a>
+   </td>
+   <td>
+    सूर्योदय
+   </td>
+   <td>
+    <a href="/wiki/Ilam_District" title="Ilam District">
+     Ilam
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    56,691
+   </td>
+   <td>
+    252.52
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.suryodayamun.gov.np/en" rel="nofollow">
+     [82]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Krishnapur_Municipality" title="Krishnapur Municipality">
+     Krishnapur
+    </a>
+   </td>
+   <td>
+    कृष्णपुर
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    56,643
+   </td>
+   <td>
+    252.75
+   </td>
+   <td>
+    <a class="external autonumber" href="http://krishnapurmun.gov.np/en" rel="nofollow">
+     [83]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Duhabi,_Kosi" title="Duhabi, Kosi">
+     Duhabi
+    </a>
+   </td>
+   <td>
+    दुहवी
+   </td>
+   <td>
+    <a href="/wiki/Sunsari_District" title="Sunsari District">
+     Sunsari
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    56,269
+   </td>
+   <td>
+    73.67
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.duhabibhaluwamun.gov.np/en" rel="nofollow">
+     [84]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Katari" title="Katari">
+     Katari
+    </a>
+   </td>
+   <td>
+    कटारी
+   </td>
+   <td>
+    <a href="/wiki/Udayapur_District" title="Udayapur District">
+     Udayapur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    56,146
+   </td>
+   <td>
+    424.89
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kataarimun.gov.np/en" rel="nofollow">
+     [85]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Khairahani_Municipality" title="Khairahani Municipality">
+     Khairhani
+    </a>
+   </td>
+   <td>
+    खैरहनी
+   </td>
+   <td>
+    <a href="/wiki/Chitwan_District" title="Chitwan District">
+     Chitwan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    56,094
+   </td>
+   <td>
+    85.55
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.khairhanimun.gov.np/en" rel="nofollow">
+     [86]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bansgadhi" title="Bansgadhi">
+     Bansgadhi
+    </a>
+   </td>
+   <td>
+    बासगढी
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    55,875
+   </td>
+   <td>
+    206.08
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20170904013754/http://www.bansgadhimun.gov.np/en" rel="nofollow">
+     [87]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Sainamaina_Municipality" title="Sainamaina Municipality">
+     Sainamaina
+    </a>
+   </td>
+   <td>
+    सैनामैना
+   </td>
+   <td>
+    <a href="/wiki/Rupandehi_District" title="Rupandehi District">
+     Rupandehi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    55,822
+   </td>
+   <td>
+    162.18
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sainamainamun.gov.np/en" rel="nofollow">
+     [88]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Changunarayan" title="Changunarayan">
+     Changunarayan
+    </a>
+   </td>
+   <td>
+    चाँगुनारायण
+   </td>
+   <td>
+    <a href="/wiki/Bhaktapur_District" title="Bhaktapur District">
+     Bhaktapur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    55,430
+   </td>
+   <td>
+    62.98
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.changunarayanmun.gov.np/en" rel="nofollow">
+     [89]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Sunwal" title="Sunwal">
+     Sunwal
+    </a>
+   </td>
+   <td>
+    सुनवल
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Parasi_District" title="Parasi District">
+     Parasi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    55,424
+   </td>
+   <td>
+    139.1
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sunwalmun.gov.np/en" rel="nofollow">
+     [90]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Ratuwamai" title="Ratuwamai">
+     Ratuwamai
+    </a>
+   </td>
+   <td>
+    रतुवामाई
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    55,380
+   </td>
+   <td>
+    142.15
+   </td>
+   <td>
+    <a class="external autonumber" href="http://ratuwamaimun.gov.np/" rel="nofollow">
+     [91]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Chaumala" title="Chaumala">
+     Gauriganga
+    </a>
+   </td>
+   <td>
+    गौरीगंगा
+   </td>
+   <td>
+    <a href="/wiki/Kailali_District" title="Kailali District">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    55,314
+   </td>
+   <td>
+    244.44
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gaurigangamun.gov.np/" rel="nofollow">
+     [92]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Maharajganj,_Nepal" title="Maharajganj, Nepal">
+     Maharajganj
+    </a>
+   </td>
+   <td>
+    महाराजगंज
+   </td>
+   <td>
+    <a href="/wiki/Kapilvastu_District" title="Kapilvastu District">
+     Kapilvastu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    54,800
+   </td>
+   <td>
+    112.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://maharajgunjmun.gov.np/" rel="nofollow">
+     [93]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Urlabari" title="Urlabari">
+     Urlabari
+    </a>
+   </td>
+   <td>
+    उर्लावारी
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    54,696
+   </td>
+   <td>
+    74.62
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180411100310/http://www.urlabarimun.gov.np/en" rel="nofollow">
+     [94]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mahagadhimai_Municipality" title="Mahagadhimai Municipality">
+     Mahagadhimai
+    </a>
+   </td>
+   <td>
+    महागढीमाई
+   </td>
+   <td>
+    <a href="/wiki/Bara_District" title="Bara District">
+     Bara
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    54,474
+   </td>
+   <td>
+    55.32
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mahagadimaimun.gov.np/en" rel="nofollow">
+     [95]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bidur" title="Bidur">
+     Bidur
+    </a>
+   </td>
+   <td>
+    विदुर
+   </td>
+   <td>
+    <a href="/wiki/Nuwakot_District" title="Nuwakot District">
+     Nuwakot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    54,351
+   </td>
+   <td>
+    130.01
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bidurmun.gov.np/en" rel="nofollow">
+     [96]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Madhyabindu" title="Madhyabindu">
+     Madhyabindu
+    </a>
+   </td>
+   <td>
+    मध्यविन्दु
+   </td>
+   <td>
+    <a href="/wiki/Nawalpur_District" title="Nawalpur District">
+     Nawalpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    54,140
+   </td>
+   <td>
+    233.35
+   </td>
+   <td>
+    <a class="external autonumber" href="http://madhyabindumun.gov.np/en" rel="nofollow">
+     [97]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Punarwas_Municipality" title="Punarwas Municipality">
+     Punarbas
+    </a>
+   </td>
+   <td>
+    पुनर्वास
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    53,633
+   </td>
+   <td>
+    103.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.punarbasmun.gov.np/en" rel="nofollow">
+     [98]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Belauri_Municipality" title="Belauri Municipality">
+     Belauri
+    </a>
+   </td>
+   <td>
+    बेलौरी
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    53,544
+   </td>
+   <td>
+    123.37
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.belaurimun.gov.np/en" rel="nofollow">
+     [99]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Devdaha" title="Devdaha">
+     Devdaha
+    </a>
+   </td>
+   <td>
+    देवदह
+   </td>
+   <td>
+    <a href="/wiki/Rupandehi_District" title="Rupandehi District">
+     Rupandehi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    53,523
+   </td>
+   <td>
+    136.95
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.devdahamun.gov.np/en" rel="nofollow">
+     [100]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Gauradaha" title="Gauradaha">
+     Gauradaha
+    </a>
+   </td>
+   <td>
+    गौरादह
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    53,033
+   </td>
+   <td>
+    149.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gauradahamun.gov.np/en" rel="nofollow">
+     [101]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Rangeli" title="Rangeli">
+     Rangeli
+    </a>
+   </td>
+   <td>
+    रंगेली
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    52,013
+   </td>
+   <td>
+    111.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rangelimun.gov.np/en" rel="nofollow">
+     [102]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bhajani" title="Bhajani">
+     Bhajani
+    </a>
+   </td>
+   <td>
+    भजनी
+   </td>
+   <td>
+    <a href="/wiki/Kailali_District" title="Kailali District">
+     Kailali
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    51,845
+   </td>
+   <td>
+    176.25
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bhajanitrishaktimun.gov.np/en" rel="nofollow">
+     [103]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Ramdhuni-Bhasi" title="Ramdhuni-Bhasi">
+     Ramdhuni
+    </a>
+   </td>
+   <td>
+    रामधुनी
+   </td>
+   <td>
+    <a href="/wiki/Sunsari_District" title="Sunsari District">
+     Sunsari
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    51,752
+   </td>
+   <td>
+    91.69
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180831042345/http://ramdhunibhasimun.gov.np/en/" rel="nofollow">
+     [104]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Waling" title="Waling">
+     Waling
+    </a>
+   </td>
+   <td>
+    वालिङ
+   </td>
+   <td>
+    <a href="/wiki/Syangja_District" title="Syangja District">
+     Syangja
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    51,143
+   </td>
+   <td>
+    128.4
+   </td>
+   <td>
+    <a class="external autonumber" href="http://walingmun.gov.np/?language=en" rel="nofollow">
+     [105]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Golbazar_Municipality,_Nepal" title="Golbazar Municipality, Nepal">
+     Golbazar
+    </a>
+   </td>
+   <td>
+    गोलबजार
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    51,137
+   </td>
+   <td>
+    111.94
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Sunawarshi" title="Sunawarshi">
+     Sunawarshi
+    </a>
+   </td>
+   <td>
+    सुनवर्षी
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    50,758
+   </td>
+   <td>
+    106.4
+   </td>
+   <td>
+    <a class="external autonumber" href="http://sunawarshimun.gov.np/" rel="nofollow">
+     [106]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Garuda_Municipality" title="Garuda Municipality">
+     Garuda
+    </a>
+   </td>
+   <td>
+    गरुडा
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    50,481
+   </td>
+   <td>
+    44.46
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.garudamun.gov.np/en" rel="nofollow">
+     [107]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Tansen,_Nepal" title="Tansen, Nepal">
+     Tansen
+    </a>
+   </td>
+   <td>
+    तानसेन
+   </td>
+   <td>
+    <a href="/wiki/Palpa_District" title="Palpa District">
+     Palpa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    50,405
+   </td>
+   <td>
+    109.8
+   </td>
+   <td>
+    <a class="external autonumber" href="http://tansenmun.gov.np/en" rel="nofollow">
+     [108]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mirchaiya" title="Mirchaiya">
+     Mirchaiya
+    </a>
+   </td>
+   <td>
+    मिर्चैया
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    50,079
+   </td>
+   <td>
+    91.97
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mirchaiyamun.gov.np/en" rel="nofollow">
+     [109]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Simraungadh" title="Simraungadh">
+     Simraungadh
+    </a>
+   </td>
+   <td>
+    सिम्रोनगढ
+   </td>
+   <td>
+    <a href="/wiki/Bara_District" title="Bara District">
+     Bara
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    49,939
+   </td>
+   <td>
+    42.65
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.simraungadhmun.gov.np/en" rel="nofollow">
+     [110]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Manara_Shiswa" title="Manara Shiswa">
+     Manara Shiswa
+    </a>
+   </td>
+   <td>
+    मनरा शिसवा
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    49,692
+   </td>
+   <td>
+    49.73
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Bedkot_Municipality" title="Bedkot Municipality">
+     Bedkot
+    </a>
+   </td>
+   <td>
+    वेदकोट
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    49,479
+   </td>
+   <td>
+    159.92
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bedkotmun.gov.np/en" rel="nofollow">
+     [111]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Kalyanpur,_Siraha" title="Kalyanpur, Siraha">
+     Kalyanpur
+    </a>
+   </td>
+   <td>
+    कल्याणपुर
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    49,288
+   </td>
+   <td>
+    76.81
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kalyanpurmun.gov.np" rel="nofollow">
+     [112]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Gorkha_Municipality" title="Gorkha Municipality">
+     Gorkha
+    </a>
+   </td>
+   <td>
+    गोरखा
+   </td>
+   <td>
+    <a href="/wiki/Gorkha_District" title="Gorkha District">
+     Gorkha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    49,272
+   </td>
+   <td>
+    131.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gorkhamun.gov.np/en" rel="nofollow">
+     [113]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Phidim" title="Phidim">
+     Phidim
+    </a>
+   </td>
+   <td>
+    फिदिम
+   </td>
+   <td>
+    <a href="/wiki/Panchthar_District" title="Panchthar District">
+     Pancthar
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    49,201
+   </td>
+   <td>
+    192.5
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.phidimmun.gov.np/en" rel="nofollow">
+     [114]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Chaudandigadhi" title="Chaudandigadhi">
+     Chaudandigadhi
+    </a>
+   </td>
+   <td>
+    चौदण्डीगढी
+   </td>
+   <td>
+    <a href="/wiki/Udayapur_District" title="Udayapur District">
+     Udayapur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    48,578
+   </td>
+   <td>
+    283.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://chaudandigadhimun.gov.np/" rel="nofollow">
+     [115]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Ilam,_Nepal" title="Ilam, Nepal">
+     Ilam
+    </a>
+   </td>
+   <td>
+    इलाम
+   </td>
+   <td>
+    <a href="/wiki/Ilam_District" title="Ilam District">
+     Ilam
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    48,536
+   </td>
+   <td>
+    173.32
+   </td>
+   <td>
+    <a class="external autonumber" href="http://ilammun.gov.np/en" rel="nofollow">
+     [116]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Shuklagandaki" title="Shuklagandaki">
+     Shuklagandaki
+    </a>
+   </td>
+   <td>
+    शुक्लागण्डकी
+   </td>
+   <td>
+    <a href="/wiki/Tanahun_District" title="Tanahun District">
+     Tanahun
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    48,456
+   </td>
+   <td>
+    165
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shuklagandakimun.gov.np/en" rel="nofollow">
+     [117]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Godaita" title="Godaita">
+     Godaita
+    </a>
+   </td>
+   <td>
+    गोडैता
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    47,687
+   </td>
+   <td>
+    48.62
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.godaitamun.gov.np" rel="nofollow">
+     [118]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Lamahi_Municipality" title="Lamahi Municipality">
+     Lamahi
+    </a>
+   </td>
+   <td>
+    लमही
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dang_Deukhuri_District" title="Dang Deukhuri District">
+     Dang
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    47,655
+   </td>
+   <td>
+    326.66
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.lamahimun.gov.np/en" rel="nofollow">
+     [119]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dhangadhimai" title="Dhangadhimai">
+     Dhangadimai
+    </a>
+   </td>
+   <td>
+    धनगढीमाई
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    47,449
+   </td>
+   <td>
+    159.51
+   </td>
+   <td>
+    <a class="external autonumber" href="http://dhangadhimaimun.gov.np/en" rel="nofollow">
+     [120]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Rupakot_Majhuwagadhi" title="Rupakot Majhuwagadhi">
+     Rupakot Majhuwagadhi
+    </a>
+   </td>
+   <td>
+    रुपाकोट–मजुवागढी
+   </td>
+   <td>
+    <a href="/wiki/Khotang_District" title="Khotang District">
+     Khotang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    46,903
+   </td>
+   <td>
+    246.51
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rupakotmajhuwagadhimun.gov.np" rel="nofollow">
+     [121]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Shuklaphanta" title="Shuklaphanta">
+     Shuklaphanta
+    </a>
+   </td>
+   <td>
+    शुक्लाफाँटा
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    46,834
+   </td>
+   <td>
+    162.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shuklaphantamun.gov.np" rel="nofollow">
+     [122]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bhangaha" title="Bhangaha">
+     Bhangaha
+    </a>
+   </td>
+   <td>
+    भँगाहा
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    46,754
+   </td>
+   <td>
+    77.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bhagahamun.gov.np/" rel="nofollow">
+     [123]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Panauti" title="Panauti">
+     Paunauti
+    </a>
+   </td>
+   <td>
+    पनौती
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    46,595
+   </td>
+   <td>
+    118
+   </td>
+   <td>
+    <a class="external autonumber" href="http://panautimun.gov.np/en" rel="nofollow">
+     [124]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Gujara,_Rautahat" title="Gujara, Rautahat">
+     Gujara
+    </a>
+   </td>
+   <td>
+    गुजरा
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    46,592
+   </td>
+   <td>
+    150.33
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.gujaramun.gov.np" rel="nofollow">
+     [125]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Malangawa" title="Malangawa">
+     Malangwa
+    </a>
+   </td>
+   <td>
+    मलङ्गवा
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    46,516
+   </td>
+   <td>
+    30.44
+   </td>
+   <td>
+    <a class="external autonumber" href="http://malangwamun.gov.np/?language=en" rel="nofollow">
+     [126]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Chautara" title="Chautara">
+     Chautara Sangachokgadhi
+    </a>
+   </td>
+   <td>
+    चौतारा साँगाचोकगढी
+   </td>
+   <td>
+    <a href="/wiki/Sindhupalchowk_District" title="Sindhupalchowk District">
+     Sindhupalchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    51,347
+   </td>
+   <td>
+    165.25
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chautarasangachowkgadhimun.gov.np" rel="nofollow">
+     [127]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Madhuwan" title="Madhuwan">
+     Madhuwan
+    </a>
+   </td>
+   <td>
+    मधुवन
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    46,437
+   </td>
+   <td>
+    129.73
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.madhuwanmun.gov.np" rel="nofollow">
+     [128]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Sabaila,_Nepal" title="Sabaila, Nepal">
+     Sabaila
+    </a>
+   </td>
+   <td>
+    सवैला
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,879
+   </td>
+   <td>
+    64.47
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sabailamun.gov.np/en" rel="nofollow">
+     [129]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Bhanu,_Nepal" title="Bhanu, Nepal">
+     Bhanu
+    </a>
+   </td>
+   <td>
+    भानु
+   </td>
+   <td>
+    <a href="/wiki/Tanahun_District" title="Tanahun District">
+     Tanahun
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    45,792
+   </td>
+   <td>
+    184
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sabailamun.gov.np/en" rel="nofollow">
+     [130]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Hanumannagar_Kankalini" title="Hanumannagar Kankalini">
+     Hanumannagar Kankalini
+    </a>
+   </td>
+   <td>
+    हनुमाननगर कंकालिनी
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,734
+   </td>
+   <td>
+    118.19
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.hanumannagarkankalinimun.gov.np" rel="nofollow">
+     [131]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dhanusadham" title="Dhanusadham">
+     Dhanushadham
+    </a>
+   </td>
+   <td>
+    धनुषाधाम
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,665
+   </td>
+   <td>
+    91.64
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dhanushadhammun.gov.np/en" rel="nofollow">
+     [132]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Manthali,_Ramechhap" title="Manthali, Ramechhap">
+     Manthali
+    </a>
+   </td>
+   <td>
+    मन्थली
+   </td>
+   <td>
+    <a href="/wiki/Ramechhap_District" title="Ramechhap District">
+     Ramechhap
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    45,416
+   </td>
+   <td>
+    211.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.manthalimun.gov.np/en" rel="nofollow">
+     [133]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Khadak,_Nepal" title="Khadak, Nepal">
+     Khadak
+    </a>
+   </td>
+   <td>
+    खडक
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,367
+   </td>
+   <td>
+    93.77
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.khadakmun.gov.np" rel="nofollow">
+     [134]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Melamchi" title="Melamchi">
+     Melamchi
+    </a>
+   </td>
+   <td>
+    मेलम्ची
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Sindhupalchok_District" title="Sindhupalchok District">
+     Sindhupalchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    45,343
+   </td>
+   <td>
+    158.17
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.melamchimun.gov.np/en" rel="nofollow">
+     [135]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Balara,_Nepal" title="Balara, Nepal">
+     Balara
+    </a>
+   </td>
+   <td>
+    बलरा
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,194
+   </td>
+   <td>
+    48.55
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.balramun.gov.np" rel="nofollow">
+     [136]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mithila_Municipality" title="Mithila Municipality">
+     Mithila
+    </a>
+   </td>
+   <td>
+    मिथिला
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    45,164
+   </td>
+   <td>
+    187.93
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mithilamun.gov.np/en" rel="nofollow">
+     [137]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Putalibazar" title="Putalibazar">
+     Putalibazar
+    </a>
+   </td>
+   <td>
+    पुतलीबजार
+   </td>
+   <td>
+    <a href="/wiki/Syangja_District" title="Syangja District">
+     Syangja
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    44,876
+   </td>
+   <td>
+    147.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://putalibazarmun.gov.np/en" rel="nofollow">
+     [138]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dakneshwori_Municipality" title="Dakneshwori Municipality">
+     Dakneshwari
+    </a>
+   </td>
+   <td>
+    दक्नेश्वारी
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    44,782
+   </td>
+   <td>
+    69.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dakneshworimun.gov.np" rel="nofollow">
+     [139]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Thakurbaba" title="Thakurbaba">
+     Thakurbaba
+    </a>
+   </td>
+   <td>
+    ठाकुरबाबा
+   </td>
+   <td>
+    <a href="/wiki/Bardiya_District" title="Bardiya District">
+     Bardiya
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    44,361
+   </td>
+   <td>
+    104.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.thakurbabamun.gov.np" rel="nofollow">
+     [140]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Surunga" title="Surunga">
+     Surunga
+    </a>
+   </td>
+   <td>
+    सुरुङ्गा
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    44,221
+   </td>
+   <td>
+    107.04
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.surungamun.gov.np" rel="nofollow">
+     [141]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Hariwan" title="Hariwan">
+     Hariwan
+    </a>
+   </td>
+   <td>
+    हरिवन
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    43,928
+   </td>
+   <td>
+    86.12
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.harionmun.gov.np" rel="nofollow">
+     [142]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Gurbhakot" title="Gurbhakot">
+     Gurbhakot
+    </a>
+   </td>
+   <td>
+    गुर्भाकोट
+   </td>
+   <td>
+    <a href="/wiki/Surkhet_District" title="Surkhet District">
+     Surkhet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    43,765
+   </td>
+   <td>
+    228.62
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181127182637/http://gurbhakotmun.gov.np/" rel="nofollow">
+     [143]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Sitganga" title="Sitganga">
+     Sitganga
+    </a>
+   </td>
+   <td>
+    सितगंगा
+   </td>
+   <td>
+    <a href="/wiki/Arghakhanchi_District" title="Arghakhanchi District">
+     Arghakhanchi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    43,373
+   </td>
+   <td>
+    610.43
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shitagangamun.gov.np" rel="nofollow">
+     [144]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Bodebarsain" title="Bodebarsain">
+     Bodebarsain
+    </a>
+   </td>
+   <td>
+    बोदेबरसाईन
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    43,229
+   </td>
+   <td>
+    58.93
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bodebarsainmun.gov.np" rel="nofollow">
+     [145]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Kolhabi" title="Kolhabi">
+     Kolhabi
+    </a>
+   </td>
+   <td>
+    कोल्हवी
+   </td>
+   <td>
+    <a href="/wiki/Bara_District" title="Bara District">
+     Bara
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    43,036
+   </td>
+   <td>
+    157.4
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kolhabimun.gov.np/en" rel="nofollow">
+     [146]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Shahidnagar,_Dhanusha" title="Shahidnagar, Dhanusha">
+     Shahidnagar
+    </a>
+   </td>
+   <td>
+    शहिद नगर
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    43,007
+   </td>
+   <td>
+    57.37
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shahidnagarmun.gov.np" rel="nofollow">
+     [147]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Brindaban,_Rautahat" title="Brindaban, Rautahat">
+     Brindaban
+    </a>
+   </td>
+   <td>
+    बृन्दावन
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    42,735
+   </td>
+   <td>
+    95.4
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.brindawanmun.gov.np" rel="nofollow">
+     [148]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Devachuli" title="Devachuli">
+     Devchuli
+    </a>
+   </td>
+   <td>
+    देवचुली
+   </td>
+   <td>
+    <a href="/wiki/Nawalpur_District" title="Nawalpur District">
+     Nawalpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    42,603
+   </td>
+   <td>
+    112.72
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.devchulimun.gov.np/en" rel="nofollow">
+     [149]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Chhireshwarnath" title="Chhireshwarnath">
+     Chhireshwarnath
+    </a>
+   </td>
+   <td>
+    क्षिरेश्वरनाथ
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    42,541
+   </td>
+   <td>
+    50.85
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kshireshwornathmun.gov.np" rel="nofollow">
+     [150]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Belaka" title="Belaka">
+     Belaka
+    </a>
+   </td>
+   <td>
+    वेलका
+   </td>
+   <td>
+    <a href="/wiki/Udayapur_District" title="Udayapur District">
+     Udayapur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    42,356
+   </td>
+   <td>
+    344.73
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.belakamun.gov.np" rel="nofollow">
+     [151]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Balawa" title="Balawa">
+     Balawa
+    </a>
+   </td>
+   <td>
+    बलवा
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    42,341
+   </td>
+   <td>
+    44.07
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181002231553/http://balwamun.gov.np/" rel="nofollow">
+     [152]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Kabilasi,_Sarlahi" title="Kabilasi, Sarlahi">
+     Kabilasi
+    </a>
+   </td>
+   <td>
+    कविलासी
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    42,336
+   </td>
+   <td>
+    48.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.belakamun.gov.np" rel="nofollow">
+     [153]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Kalika_Municipality" title="Kalika Municipality">
+     Kalika
+    </a>
+   </td>
+   <td>
+    कालिका
+   </td>
+   <td>
+    <a href="/wiki/Chitwan_District" title="Chitwan District">
+     Chitwan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    41,742
+   </td>
+   <td>
+    149.08
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180206155459/http://kalikamun.gov.np/en" rel="nofollow">
+     [154]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Thaha_Municipality" title="Thaha Municipality">
+     Thaha
+    </a>
+   </td>
+   <td>
+    थाहा
+   </td>
+   <td>
+    <a href="/wiki/Makwanpur_District" title="Makwanpur District">
+     Makawanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    41,623
+   </td>
+   <td>
+    191.12
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.thahamun.gov.np/en" rel="nofollow">
+     [155]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Dullu" title="Dullu">
+     Dullu
+    </a>
+   </td>
+   <td>
+    दुल्लु
+   </td>
+   <td>
+    <a href="/wiki/Dailekh_District" title="Dailekh District">
+     Dailekh
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    41,540
+   </td>
+   <td>
+    156.77
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dullumun.gov.np/en" rel="nofollow">
+     [156]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Ishanath,_Rautahat" title="Ishanath, Rautahat">
+     Ishnath
+    </a>
+   </td>
+   <td>
+    ईशनाथ
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    41,435
+   </td>
+   <td>
+    35.18
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.ishnathmun.gov.np" rel="nofollow">
+     [157]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bheriganga" title="Bheriganga">
+     Bheriganga
+    </a>
+   </td>
+   <td>
+    भेरीगंगा
+   </td>
+   <td>
+    <a href="/wiki/Surkhet_District" title="Surkhet District">
+     Surkhet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    41,407
+   </td>
+   <td>
+    256.2
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bherigangamun.gov.np/en" rel="nofollow">
+     [158]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Sandhikharka" title="Sandhikharka">
+     Sandhikharka
+    </a>
+   </td>
+   <td>
+    सन्धिखर्क
+   </td>
+   <td>
+    <a href="/wiki/Arghakhanchi_District" title="Arghakhanchi District">
+     Arghakhanchi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    41,079
+   </td>
+   <td>
+    129.42
+   </td>
+   <td>
+    <a class="external autonumber" href="http://sandhikharkamun.gov.np/en" rel="nofollow">
+     [159]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Rajpur,_Rautahat" title="Rajpur, Rautahat">
+     Rajpur
+    </a>
+   </td>
+   <td>
+    राजपुर
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    41,078
+   </td>
+   <td>
+    31.41
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rajpurmunrautahat.gov.np/" rel="nofollow">
+     [160]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Gadhimai,_Rautahat" title="Gadhimai, Rautahat">
+     Gadhimai
+    </a>
+   </td>
+   <td>
+    गढीमाई
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    40,410
+   </td>
+   <td>
+    49.44
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.gadhimaimun.gov.np" rel="nofollow">
+     [161]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bagmati,_Sarlahi" title="Bagmati, Sarlahi">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    बागमती
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    40,399
+   </td>
+   <td>
+    101.18
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bagmatimunsarlahi.gov.np" rel="nofollow">
+     [162]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Kankai_Municipality" title="Kankai Municipality">
+     Kankai
+    </a>
+   </td>
+   <td>
+    कन्काई
+   </td>
+   <td>
+    <a href="/wiki/Jhapa_District" title="Jhapa District">
+     Jhapa
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    40,141
+   </td>
+   <td>
+    80.98
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kankaimun.gov.np/en" rel="nofollow">
+     [163]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Belkotgadhi" title="Belkotgadhi">
+     Belkotgadhi
+    </a>
+   </td>
+   <td>
+    बेलकोटगढी
+   </td>
+   <td>
+    <a href="/wiki/Nuwakot_District" title="Nuwakot District">
+     Nuwakot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    39,888
+   </td>
+   <td>
+    155.6
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.belkotgadhimun.gov.np" rel="nofollow">
+     [164]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bahudarmai" title="Bahudarmai">
+     Bahudarmai
+    </a>
+   </td>
+   <td>
+    बहुदरमाई
+   </td>
+   <td>
+    <a href="/wiki/Parsa_District" title="Parsa District">
+     Parsa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    39,673
+   </td>
+   <td>
+    31.55
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bahudarmaimun.gov.np" rel="nofollow">
+     [165]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Kusma,_Nepal" title="Kusma, Nepal">
+     Kushma
+    </a>
+   </td>
+   <td>
+    कुश्मा
+   </td>
+   <td>
+    <a href="/wiki/Parbat_District" title="Parbat District">
+     Parbat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    39,600
+   </td>
+   <td>
+    93.18
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kushmamun.gov.np/en" rel="nofollow">
+     [166]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Loharpatti" title="Loharpatti">
+     Loharpatti
+    </a>
+   </td>
+   <td>
+    लोहरपट्टी
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    39,579
+   </td>
+   <td>
+    50.06
+   </td>
+   <td>
+    <a class="external autonumber" href="http://loharpattimun.gov.np/" rel="nofollow">
+     [167]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Besisahar" title="Besisahar">
+     Besisahar
+    </a>
+   </td>
+   <td>
+    बेसीशहर
+   </td>
+   <td>
+    <a href="/wiki/Lamjung_District" title="Lamjung District">
+     Lamjung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    39,356
+   </td>
+   <td>
+    127.64
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.besishaharmun.gov.np/en" rel="nofollow">
+     [168]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Mahakali,_Kanchanpur" title="Mahakali, Kanchanpur">
+     Mahakali
+    </a>
+   </td>
+   <td>
+    माहाकाली
+   </td>
+   <td>
+    <a href="/wiki/Kanchanpur_District" title="Kanchanpur District">
+     Kanchanpur
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    39,253
+   </td>
+   <td>
+    56.84
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mahakalimunkanchanpur.gov.np/" rel="nofollow">
+     [169]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Purchaudi" title="Purchaudi">
+     Purchaudi
+    </a>
+   </td>
+   <td>
+    पुर्चौडी
+   </td>
+   <td>
+    <a href="/wiki/Baitadi_District" title="Baitadi District">
+     Baitadi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    39,174
+   </td>
+   <td>
+    198.52
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.purchaudimun.gov.np" rel="nofollow">
+     [170]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Hansapur,_Dhanusa" title="Hansapur, Dhanusa">
+     Hansapur
+    </a>
+   </td>
+   <td>
+    हंसपुर
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    39,145
+   </td>
+   <td>
+    48.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.hansapurmun.gov.np" rel="nofollow">
+     [171]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Kamala_Municipality" title="Kamala Municipality">
+     Kamala
+    </a>
+   </td>
+   <td>
+    कमला
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    38,877
+   </td>
+   <td>
+    65.85
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kamalamun.gov.np/" rel="nofollow">
+     [172]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Pyuthan_Municipality" title="Pyuthan Municipality">
+     Pyuthan
+    </a>
+   </td>
+   <td>
+    प्यूठान
+   </td>
+   <td>
+    <a href="/wiki/Pyuthan_District" title="Pyuthan District">
+     Pyuthan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    38,449
+   </td>
+   <td>
+    128.96
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.pyuthanmun.gov.np/en" rel="nofollow">
+     [173]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Katahariya" title="Katahariya">
+     Katahariya
+    </a>
+   </td>
+   <td>
+    कटहरीया
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    38,413
+   </td>
+   <td>
+    40.69
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.katahariyamun.gov.np" rel="nofollow">
+     [174]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Palungtar" title="Palungtar">
+     Palungtar
+    </a>
+   </td>
+   <td>
+    पालुङटार
+   </td>
+   <td>
+    <a href="/wiki/Gorkha_District" title="Gorkha District">
+     Gorkha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    38,174
+   </td>
+   <td>
+    158.62
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.palungtarmun.gov.np/en" rel="nofollow">
+     [175]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Parsagadhi" title="Parsagadhi">
+     Parsagadhi
+    </a>
+   </td>
+   <td>
+    पर्सागढी
+   </td>
+   <td>
+    <a href="/wiki/Parsa_District" title="Parsa District">
+     Parsa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    38,067
+   </td>
+   <td>
+    99.69
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.parsagadhimun.gov.np" rel="nofollow">
+     [176]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Shambhunath" title="Shambhunath">
+     Shambhunath
+    </a>
+   </td>
+   <td>
+    शम्भुनाथ
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    38,018
+   </td>
+   <td>
+    108.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shambhunathmun.gov.np" rel="nofollow">
+     [177]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Panchkhal" title="Panchkhal">
+     Panchkhal
+    </a>
+   </td>
+   <td>
+    पाँचखाल
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    37,997
+   </td>
+   <td>
+    103
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.panchkhalmun.gov.np/en" rel="nofollow">
+     [178]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Madi,_Chitwan" title="Madi, Chitwan">
+     Madi
+    </a>
+   </td>
+   <td>
+    माडी
+   </td>
+   <td>
+    <a href="/wiki/Chitwan_District" title="Chitwan District">
+     Chitwan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    37,683
+   </td>
+   <td>
+    218.24
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.maddimun.gov.np/en" rel="nofollow">
+     [179]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Sukhipur" title="Sukhipur">
+     Sukhipur
+    </a>
+   </td>
+   <td>
+    सुखीपुर
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    37,592
+   </td>
+   <td>
+    54.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sukhipurmun.gov.np" rel="nofollow">
+     [180]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Paroha,_Nepal" title="Paroha, Nepal">
+     Paroha
+    </a>
+   </td>
+   <td>
+    परोहा
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    37,453
+   </td>
+   <td>
+    37.45
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.parohamun.gov.np" rel="nofollow">
+     [181]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Haripur,_Sarlahi" title="Haripur, Sarlahi">
+     Haripur
+    </a>
+   </td>
+   <td>
+    हरिपुर
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    37,351
+   </td>
+   <td>
+    66.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.haripurmun.gov.np" rel="nofollow">
+     [182]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Ganeshman_Charanath" title="Ganeshman Charanath">
+     Ganeshman Charanath
+    </a>
+   </td>
+   <td>
+    गणेशमान चारनाथ
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    37,300
+   </td>
+   <td>
+    244.31
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.ganeshmancharnathmun.gov.np" rel="nofollow">
+     [183]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Galyang_Municipality" title="Galyang Municipality">
+     Galyang
+    </a>
+   </td>
+   <td>
+    गल्याङ
+   </td>
+   <td>
+    <a href="/wiki/Syangja_District" title="Syangja District">
+     Syangja
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    36,967
+   </td>
+   <td>
+    122.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.galyangmun.gov.np" rel="nofollow">
+     [184]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Dhankuta" title="Dhankuta">
+     Dhankuta
+    </a>
+   </td>
+   <td>
+    धनकुटा
+   </td>
+   <td>
+    <a href="/wiki/Dhankuta_District" title="Dhankuta District">
+     Dhankuta
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    36,619
+   </td>
+   <td>
+    111
+   </td>
+   <td>
+    <a class="external autonumber" href="http://dhankutamun.gov.np/en" rel="nofollow">
+     [185]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Phatuwa_Bijayapur" title="Phatuwa Bijayapur">
+     Phatuwa Bijayapur
+    </a>
+   </td>
+   <td>
+    फतुवाबिजयपुर
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    36,533
+   </td>
+   <td>
+    65.24
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.phatuwabijaypurmun.gov.np" rel="nofollow">
+     [186]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Baudhimai" title="Baudhimai">
+     Baudhimai
+    </a>
+   </td>
+   <td>
+    बौधीमाई
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    36,265
+   </td>
+   <td>
+    34.343
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.baudhimaimun.gov.np" rel="nofollow">
+     [187]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Bangad_Kupinde" title="Bangad Kupinde">
+     Bangad Kupinde
+    </a>
+   </td>
+   <td>
+    बनगाड कुपिण्डे
+   </td>
+   <td>
+    <a href="/wiki/Salyan_District,_Nepal" title="Salyan District, Nepal">
+     Salyan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    36,052
+   </td>
+   <td>
+    338.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bangadkupindemun.gov.np" rel="nofollow">
+     [188]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Haripurwa" title="Haripurwa">
+     Haripurwa
+    </a>
+   </td>
+   <td>
+    हरिपुर्वा
+   </td>
+   <td>
+    <a href="/wiki/Sarlahi_District" title="Sarlahi District">
+     Sarlahi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    36,042
+   </td>
+   <td>
+    30.50
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.haripurwamun.gov.np" rel="nofollow">
+     [189]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Rampur,_Palpa" title="Rampur, Palpa">
+     Rampur
+    </a>
+   </td>
+   <td>
+    रामपुर
+   </td>
+   <td>
+    <a href="/wiki/Palpa_District" title="Palpa District">
+     Palpa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    35,396
+   </td>
+   <td>
+    123.34
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rampurmun.gov.np/en" rel="nofollow">
+     [190]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Chhedagad" title="Chhedagad">
+     Chhedagad
+    </a>
+   </td>
+   <td>
+    छेडागाड
+   </td>
+   <td>
+    <a href="/wiki/Jajarkot_District" title="Jajarkot District">
+     Jajarkot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    35,295
+   </td>
+   <td>
+    284.2
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20190115114706/http://chhedagadmun.gov.np/" rel="nofollow">
+     [191]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Kanchan_Rup" title="Kanchan Rup">
+     Kanchanrup
+    </a>
+   </td>
+   <td>
+    कञ्चनरूप
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    35,238
+   </td>
+   <td>
+    117.34
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.kanchanrupmun.gov.np/en" rel="nofollow">
+     [192]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Parshuram,_Dadeldhura" title="Parshuram, Dadeldhura">
+     Parshuram
+    </a>
+   </td>
+   <td>
+    परशुराम
+   </td>
+   <td>
+    <a href="/wiki/Dadeldhura_District" title="Dadeldhura District">
+     Dadeldhura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    34,983
+   </td>
+   <td>
+    414.07
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.parasurammun.gov.np/en" rel="nofollow">
+     [193]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Nagarain" title="Nagarain">
+     Nagarain
+    </a>
+   </td>
+   <td>
+    नगराईन
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    35,630
+   </td>
+   <td>
+    39.00
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.nagrainmun.gov.np" rel="nofollow">
+     [194]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dasharathchand" title="Dasharathchand">
+     Dasharathchand
+    </a>
+   </td>
+   <td>
+    दशरथचन्द
+   </td>
+   <td>
+    <a href="/wiki/Baitadi_District" title="Baitadi District">
+     Baitadi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    34,575
+   </td>
+   <td>
+    135.15
+   </td>
+   <td>
+    <a class="external autonumber" href="http://dasharathchandmun.gov.np/en" rel="nofollow">
+     [195]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Nijgadh" title="Nijgadh">
+     Nijgadh
+    </a>
+   </td>
+   <td>
+    निजगढ
+   </td>
+   <td>
+    <a href="/wiki/Bara_District" title="Bara District">
+     Bara
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    35,335
+   </td>
+   <td>
+    289.43
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.nijgadhmun.gov.np/en" rel="nofollow">
+     [196]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Madhav_Narayan" title="Madhav Narayan">
+     Madhav Narayan
+    </a>
+   </td>
+   <td>
+    माधव नारायण
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    35,175
+   </td>
+   <td>
+    48.53
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.nagrainmun.gov.np" rel="nofollow">
+     [197]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Gaur,_Nepal" title="Gaur, Nepal">
+     Gaur
+    </a>
+   </td>
+   <td>
+    गौर
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    34,937
+   </td>
+   <td>
+    21.53
+   </td>
+   <td>
+    <a class="external autonumber" href="http://gaurmun.gov.np/en" rel="nofollow">
+     [198]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Pacharauta" title="Pacharauta">
+     Pacharauta
+    </a>
+   </td>
+   <td>
+    पचरौता
+   </td>
+   <td>
+    <a href="/wiki/Bara_District" title="Bara District">
+     Bara
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    34,175
+   </td>
+   <td>
+    44.01
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.pachrautamun.gov.np" rel="nofollow">
+     [199]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bagchaur" title="Bagchaur">
+     Bagchaur
+    </a>
+   </td>
+   <td>
+    बागचौर
+   </td>
+   <td>
+    <a href="/wiki/Salyan_District,_Nepal" title="Salyan District, Nepal">
+     Salyan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    34,118
+   </td>
+   <td>
+    163.14
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bagchaurmun.gov.np/en" rel="nofollow">
+     [200]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Sanphebagar" title="Sanphebagar">
+     Sanphebagar
+    </a>
+   </td>
+   <td>
+    साफेबगर
+   </td>
+   <td>
+    <a href="/wiki/Achham_District" title="Achham District">
+     Achham
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    33,788
+   </td>
+   <td>
+    166.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sanfebagarmun.gov.np/en" rel="nofollow">
+     [201]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Shaarda" title="Shaarda">
+     Shaarda
+    </a>
+   </td>
+   <td>
+    शारदा
+   </td>
+   <td>
+    <a href="/wiki/Salyan_District,_Nepal" title="Salyan District, Nepal">
+     Salyan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    33,730
+   </td>
+   <td>
+    198.34
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shaaradamun.gov.np/en" rel="nofollow">
+     [202]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a class="mw-redirect" href="/wiki/Aathbis_Kot" title="Aathbis Kot">
+     Aathabiskot
+    </a>
+   </td>
+   <td>
+    अाठबिसकाेट
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/West_Rukum_District" title="West Rukum District">
+     Rukum West
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    33,601
+   </td>
+   <td>
+    560.34
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181019162603/http://aathbiskotmun.gov.np/" rel="nofollow">
+     [203]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mithila_Bihari" title="Mithila Bihari">
+     Mithila Bihari
+    </a>
+   </td>
+   <td>
+    मिथिला बिहारी
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    33,521
+   </td>
+   <td>
+    37.6
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mithilabiharimun.gov.np/" rel="nofollow">
+     [204]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bheri,_Jajarkot" title="Bheri, Jajarkot">
+     Bheri
+    </a>
+   </td>
+   <td>
+    भेरी
+   </td>
+   <td>
+    <a href="/wiki/Jajarkot_District" title="Jajarkot District">
+     Jajarkot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    33,515
+   </td>
+   <td>
+    219.77
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bherimalikamun.gov.np/en" rel="nofollow">
+     [205]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Beni,_Myagdi" title="Beni, Myagdi">
+     Beni
+    </a>
+   </td>
+   <td>
+    बेनी
+   </td>
+   <td>
+    <a href="/wiki/Myagdi_District" title="Myagdi District">
+     Myagdi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    33,498
+   </td>
+   <td>
+    76.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.benimun.gov.np/en" rel="nofollow">
+     [206]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a class="mw-redirect" href="/wiki/Bungal" title="Bungal">
+     Bungal
+    </a>
+   </td>
+   <td>
+    बुंगल
+   </td>
+   <td>
+    <a href="/wiki/Bajhang_District" title="Bajhang District">
+     Bajhang
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    33,224
+   </td>
+   <td>
+    447.59
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181007183601/http://www.bungalmun.gov.np/" rel="nofollow">
+     [207]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Galkot" title="Galkot">
+     Galkot
+    </a>
+   </td>
+   <td>
+    गल्कोट
+   </td>
+   <td>
+    <a href="/wiki/Baglung_District" title="Baglung District">
+     Baglung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    33,097
+   </td>
+   <td>
+    194.39
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.galkotmun.gov.np" rel="nofollow">
+     [208]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dipayal_Silgadhi" title="Dipayal Silgadhi">
+     Dipayal Silgadhi
+    </a>
+   </td>
+   <td>
+    दिपायल सिलगढी
+   </td>
+   <td>
+    <a href="/wiki/Doti_District" title="Doti District">
+     Doti
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    32,941
+   </td>
+   <td>
+    126.62
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20180422180334/http://dipayalsilgadhimun.gov.np/en" rel="nofollow">
+     [209]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Musikot,_Western_Rukum" title="Musikot, Western Rukum">
+     Musikot
+    </a>
+   </td>
+   <td>
+    मुसिकोट
+   </td>
+   <td>
+    <a href="/wiki/Western_Rukum_District" title="Western Rukum District">
+     Western Rukum
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    32,939
+   </td>
+   <td>
+    136.06
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.musikotmun.gov.np/en" rel="nofollow">
+     [210]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Deumai_Municipality" title="Deumai Municipality">
+     Deumai
+    </a>
+   </td>
+   <td>
+    देउमाई
+   </td>
+   <td>
+    <a href="/wiki/Ilam_District" title="Ilam District">
+     Ilam
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    32,927
+   </td>
+   <td>
+    191.63
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.deumaimun.gov.np/en" rel="nofollow">
+     [211]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Pokhariya,_Nepal" title="Pokhariya, Nepal">
+     Pokhariya
+    </a>
+   </td>
+   <td>
+    पोखरिया
+   </td>
+   <td>
+    <a href="/wiki/Parsa_District" title="Parsa District">
+     Parsa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    32,885
+   </td>
+   <td>
+    32.47
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.pokhariyamun.gov.np/en" rel="nofollow">
+     [212]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Musikot,_Gulmi" title="Musikot, Gulmi">
+     Musikot
+    </a>
+   </td>
+   <td>
+    मुसिकोट
+   </td>
+   <td>
+    <a href="/wiki/Gulmi_District" title="Gulmi District">
+     Gulmi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    32,802
+   </td>
+   <td>
+    114.74
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.musikotmungulmi.gov.np" rel="nofollow">
+     [213]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Rolpa_Municipality" title="Rolpa Municipality">
+     Rolpa
+    </a>
+   </td>
+   <td>
+    रोल्पा
+   </td>
+   <td>
+    <a href="/wiki/Rolpa_District" title="Rolpa District">
+     Rolpa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    32,759
+   </td>
+   <td>
+    270.42
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rolpamun.gov.np" rel="nofollow">
+     [214]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mandandeupur" title="Mandandeupur">
+     Mandandeupur
+    </a>
+   </td>
+   <td>
+    मण्डनदेउपुर
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    32,659
+   </td>
+   <td>
+    89
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mandandeupurmun.gov.np" rel="nofollow">
+     [215]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Bhumikasthan_Municipality" title="Bhumikasthan Municipality">
+     Bhumikasthan
+    </a>
+   </td>
+   <td>
+    भूमिकास्थान
+   </td>
+   <td>
+    <a href="/wiki/Arghakhanchi_District" title="Arghakhanchi District">
+     Arghakhanchi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    32,640
+   </td>
+   <td>
+    159.13
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bhumikasthanmun.gov.np" rel="nofollow">
+     [216]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mai_Municipality" title="Mai Municipality">
+     Mai
+    </a>
+   </td>
+   <td>
+    माई
+   </td>
+   <td>
+    <a href="/wiki/Ilam_District" title="Ilam District">
+     Ilam
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    32,576
+   </td>
+   <td>
+    246.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.maimun.gov.np" rel="nofollow">
+     [217]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Resunga_Municipality" title="Resunga Municipality">
+     Resunga
+    </a>
+   </td>
+   <td>
+    रेसुङ्गा
+   </td>
+   <td>
+    <a href="/wiki/Gulmi_District" title="Gulmi District">
+     Gulmi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    32,545
+   </td>
+   <td>
+    83.74
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.resungamun.gov.np/en" rel="nofollow">
+     [218]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mangalsen" title="Mangalsen">
+     Mangalsen
+    </a>
+   </td>
+   <td>
+    मंगलसेन
+   </td>
+   <td>
+    <a href="/wiki/Achham_District" title="Achham District">
+     Achham
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    32,331
+   </td>
+   <td>
+    220.14
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mangalsenmun.gov.np/en" rel="nofollow">
+     [219]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bideha,_Dhanusa" title="Bideha, Dhanusa">
+     Bideha
+    </a>
+   </td>
+   <td>
+    विदेह
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Dhanusa_District" title="Dhanusa District">
+     Dhanusha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    32,266
+   </td>
+   <td>
+    45.51
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bidehamun.gov.np" rel="nofollow">
+     [220]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Panchapuri" title="Panchapuri">
+     Panchapuri
+    </a>
+   </td>
+   <td>
+    पञ्चपुरी
+   </td>
+   <td>
+    <a href="/wiki/Surkhet_District" title="Surkhet District">
+     Surkhet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    32,231
+   </td>
+   <td>
+    329.9
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bidehamun.gov.np" rel="nofollow">
+     [221]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Dhulikhel" title="Dhulikhel">
+     Dhulikhel
+    </a>
+   </td>
+   <td>
+    धुलिखेल
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    32,162
+   </td>
+   <td>
+    55
+   </td>
+   <td>
+    <a class="external autonumber" href="http://dhulikhelmun.gov.np/en" rel="nofollow">
+     [222]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Dewahi_Gonahi" title="Dewahi Gonahi">
+     Dewahi Gonahi
+    </a>
+   </td>
+   <td>
+    देवाही गोनाही
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    32,146
+   </td>
+   <td>
+    33.99
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dewahigonahimun.gov.np" rel="nofollow">
+     [223]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Letang_Bhogateni" title="Letang Bhogateni">
+     Letang Bhogateni
+    </a>
+   </td>
+   <td>
+    लेटाङ
+   </td>
+   <td>
+    <a href="/wiki/Morang_District" title="Morang District">
+     Morang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    32,053
+   </td>
+   <td>
+    219.23
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.letangbhogatenimun.gov.np/en" rel="nofollow">
+     [224]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Shikhar,_Doti" title="Shikhar, Doti">
+     Shikhar
+    </a>
+   </td>
+   <td>
+    शिखर
+   </td>
+   <td>
+    <a href="/wiki/Doti_District" title="Doti District">
+     Doti
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    31,801
+   </td>
+   <td>
+    285.37
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shikharmun.gov.np" rel="nofollow">
+     [225]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Aurahi,_Mahottari" title="Aurahi, Mahottari">
+     Aurahi
+    </a>
+   </td>
+   <td>
+    औरही
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    31,751
+   </td>
+   <td>
+    35.76
+   </td>
+   <td>
+    <a class="external autonumber" href="http://aurahimunmahottari.gov.np/" rel="nofollow">
+     [226]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Shadanand" title="Shadanand">
+     Shadanand
+    </a>
+   </td>
+   <td>
+    षडानन्द
+   </td>
+   <td>
+    <a href="/wiki/Bhojpur_District,_Nepal" title="Bhojpur District, Nepal">
+     Bhojpur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    31,610
+   </td>
+   <td>
+    241.15
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shadanandmun.gov.np/en" rel="nofollow">
+     [227]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bhimeshwar" title="Bhimeshwar">
+     Bhimeshwar
+    </a>
+   </td>
+   <td>
+    भीमेश्वर
+   </td>
+   <td>
+    <a href="/wiki/Dolakha_District" title="Dolakha District">
+     Dolakha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    31,480
+   </td>
+   <td>
+    132.5
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bhimeshwormun.gov.np/en" rel="nofollow">
+     [228]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Jaimini" title="Jaimini">
+     Jaimini
+    </a>
+   </td>
+   <td>
+    जैमिनी
+   </td>
+   <td>
+    <a href="/wiki/Baglung_District" title="Baglung District">
+     Baglung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    31,430
+   </td>
+   <td>
+    118.71
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.jaiminimun.gov.np" rel="nofollow">
+     [229]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bhimad" title="Bhimad">
+     Bhimad
+    </a>
+   </td>
+   <td>
+    भिमाद
+   </td>
+   <td>
+    <a href="/wiki/Tanahun_District" title="Tanahun District">
+     Tanahun
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    31,362
+   </td>
+   <td>
+    129
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bhimadmun.gov.np" rel="nofollow">
+     [230]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Rajdevi" title="Rajdevi">
+     Rajdevi
+    </a>
+   </td>
+   <td>
+    राजदेवी
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    31,292
+   </td>
+   <td>
+    28.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.rajdevimun.gov.np" rel="nofollow">
+     [231]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Khandbari" title="Khandbari">
+     Khandbari
+    </a>
+   </td>
+   <td>
+    खादँवारी
+   </td>
+   <td>
+    <a href="/wiki/Sankhuwasabha_District" title="Sankhuwasabha District">
+     Sankhuwasabha
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    31,177
+   </td>
+   <td>
+    122.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://khandbarimun.gov.np" rel="nofollow">
+     [232]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Dhunibeshi" title="Dhunibeshi">
+     Dhunibeshi
+    </a>
+   </td>
+   <td>
+    धुनीबेंशी
+   </td>
+   <td>
+    <a href="/wiki/Dhading_District" title="Dhading District">
+     Dhading
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    31,029
+   </td>
+   <td>
+    96.3
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Matihani,_Nepal" title="Matihani, Nepal">
+     Matihani
+    </a>
+   </td>
+   <td>
+    मटिहानी
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    31,026
+   </td>
+   <td>
+    29.02
+   </td>
+   <td>
+    <a class="external autonumber" href="http://matihanimun.gov.np/" rel="nofollow">
+     [233]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Karjanha" title="Karjanha">
+     Karjanha
+    </a>
+   </td>
+   <td>
+    कर्जन्हा
+   </td>
+   <td>
+    <a href="/wiki/Siraha_District" title="Siraha District">
+     Siraha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    30,965
+   </td>
+   <td>
+    76.84
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.karjanhamun.gov.np" rel="nofollow">
+     [234]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Swargadwari_Municipality" title="Swargadwari Municipality">
+     Swargadwari
+    </a>
+   </td>
+   <td>
+    स्वर्गद्वारी
+   </td>
+   <td>
+    <a href="/wiki/Pyuthan_District" title="Pyuthan District">
+     Pyuthan
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Lumbini_Province" title="Lumbini Province">
+     Lumbini
+    </a>
+   </td>
+   <td>
+    30,940
+   </td>
+   <td>
+    224.7
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.swargadwarimun.gov.np" rel="nofollow">
+     [235]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Patan,_Baitadi" title="Patan, Baitadi">
+     Patan
+    </a>
+   </td>
+   <td>
+    पाटन
+   </td>
+   <td>
+    <a href="/wiki/Baitadi_District" title="Baitadi District">
+     Baitadi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    30,435
+   </td>
+   <td>
+    219.26
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.patanmun.gov.np/en" rel="nofollow">
+     [236]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Lekbeshi" title="Lekbeshi">
+     Lekbeshi
+    </a>
+   </td>
+   <td>
+    लेकबेशी
+   </td>
+   <td>
+    <a href="/wiki/Surkhet_District" title="Surkhet District">
+     Surkhet
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    30,295
+   </td>
+   <td>
+    180.92
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.lekbeshimun.gov.np" rel="nofollow">
+     [237]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Ramgopalpur" title="Ramgopalpur">
+     Ramgopalpur
+    </a>
+   </td>
+   <td>
+    रामगोपालपुर
+   </td>
+   <td>
+    <a href="/wiki/Mahottari_District" title="Mahottari District">
+     Mahottari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    29,612
+   </td>
+   <td>
+    39.58
+   </td>
+   <td>
+    <a class="external autonumber" href="http://ramgopalpurmun.gov.np/" rel="nofollow">
+     [238]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Halesi_Tuwachung" title="Halesi Tuwachung">
+     Halesi Tuwachung
+    </a>
+   </td>
+   <td>
+    हलेसी तुवाचुङ
+   </td>
+   <td>
+    <a href="/wiki/Khotang_District" title="Khotang District">
+     Khotang
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    29,532
+   </td>
+   <td>
+    280.17
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.halesituwachungmun.gov.np" rel="nofollow">
+     [239]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Namobuddha" title="Namobuddha">
+     Namobuddha
+    </a>
+   </td>
+   <td>
+    नमोबुद्ध
+   </td>
+   <td>
+    <a href="/wiki/Kavrepalanchok_District" title="Kavrepalanchok District">
+     Kavrepalanchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    29,519
+   </td>
+   <td>
+    102
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.namobuddhamun.gov.np" rel="nofollow">
+     [240]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Aathabis" title="Aathabis">
+     Aathabis
+    </a>
+   </td>
+   <td>
+    आठबीस
+   </td>
+   <td>
+    <a href="/wiki/Dailekh_District" title="Dailekh District">
+     Dailekh
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    29,227
+   </td>
+   <td>
+    168
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20190323223411/http://aathabismun.gov.np/" rel="nofollow">
+     [241]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Ramechhap,_Ramechhap" title="Ramechhap, Ramechhap">
+     Ramechhap
+    </a>
+   </td>
+   <td>
+    रामेछाप
+   </td>
+   <td>
+    <a href="/wiki/Ramechhap_District" title="Ramechhap District">
+     Ramechhap
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    28,612
+   </td>
+   <td>
+    202.45
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.ramechhapmun.gov.np/en" rel="nofollow">
+     [242]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Siddhicharan_Municipality" title="Siddhicharan Municipality">
+     Siddhicharan
+    </a>
+   </td>
+   <td>
+    सिद्दिचरण
+   </td>
+   <td>
+    <a href="/wiki/Okhaldhunga_District" title="Okhaldhunga District">
+     Okhaldhunga
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    28,374
+   </td>
+   <td>
+    167.88
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.siddhicharanmun.gov.np/en" rel="nofollow">
+     [243]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Panchadewal_Binayak" title="Panchadewal Binayak">
+     Panchadewal Binayak
+    </a>
+   </td>
+   <td>
+    पञ्चदेवल विनायक
+   </td>
+   <td>
+    <a href="/wiki/Achham_District" title="Achham District">
+     Achham
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    27,485
+   </td>
+   <td>
+    147.75
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.panchadewalbinayakmun.gov.np" rel="nofollow">
+     [244]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Chaurjahari" title="Chaurjahari">
+     Chaurjahari
+    </a>
+   </td>
+   <td>
+    चौरजहारी
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/West_Rukum_District" title="West Rukum District">
+     Western Rukum
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    27,438
+   </td>
+   <td>
+    107.38
+   </td>
+   <td>
+    <a class="external autonumber" href="http://chaurjaharimun.gov.np/en" rel="nofollow">
+     [245]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Chainpur,_Kosi" title="Chainpur, Kosi">
+     Chainpur
+    </a>
+   </td>
+   <td>
+    चैनपुर
+   </td>
+   <td>
+    <a href="/wiki/Sankhuwasabha_District" title="Sankhuwasabha District">
+     Sankhuwasabha
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    27,308
+   </td>
+   <td>
+    223.69
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chainpurmun.gov.np/en" rel="nofollow">
+     [246]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bhojpur,_Nepal" title="Bhojpur, Nepal">
+     Bhojpur
+    </a>
+   </td>
+   <td>
+    भोजपुर
+   </td>
+   <td>
+    <a href="/wiki/Bhojpur_District,_Nepal" title="Bhojpur District, Nepal">
+     Bhojpur
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    27,204
+   </td>
+   <td>
+    159.51
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bhojpurmun.gov.np/en" rel="nofollow">
+     [247]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Narayan_Municipality" title="Narayan Municipality">
+     Narayan
+    </a>
+   </td>
+   <td>
+    नारायण
+   </td>
+   <td>
+    <a href="/wiki/Dailekh_District" title="Dailekh District">
+     Dailekh
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    27,037
+   </td>
+   <td>
+    110.63
+   </td>
+   <td>
+    <a class="external autonumber" href="http://narayanmun.gov.np/en" rel="nofollow">
+     [248]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Sundarbazar_Municipality" title="Sundarbazar Municipality">
+     Sundarbazar
+    </a>
+   </td>
+   <td>
+    सुन्दरबजार
+   </td>
+   <td>
+    <a href="/wiki/Lamjung_District" title="Lamjung District">
+     Lamjung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    26,861
+   </td>
+   <td>
+    72.05
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.sundarbazarmun.gov.np/en" rel="nofollow">
+     [249]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Bahrabise" title="Bahrabise">
+     Barhabise
+    </a>
+   </td>
+   <td>
+    बाह्रविसे
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Sindhupalchok_District" title="Sindhupalchok District">
+     Sindhupalchok
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    26,700
+   </td>
+   <td>
+    96.73
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.bahrabisemun.gov.np" rel="nofollow">
+     [250]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Maulapur,_Rautahat" title="Maulapur, Rautahat">
+     Maulapur
+    </a>
+   </td>
+   <td>
+    मौलापुर
+   </td>
+   <td>
+    <a href="/wiki/Rautahat_District" title="Rautahat District">
+     Rautahat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    26,431
+   </td>
+   <td>
+    34.75
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.maulapurmun.gov.np" rel="nofollow">
+     [251]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Taplejung_Municipality" title="Taplejung Municipality">
+     Taplejung(Phungling)
+    </a>
+   </td>
+   <td>
+    फुङलिङ
+   </td>
+   <td>
+    <a href="/wiki/Taplejung_District" title="Taplejung District">
+     Taplejung
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    26,406
+   </td>
+   <td>
+    125.57
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.phunglingmun.gov.np" rel="nofollow">
+     [252]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Dhorpatan" title="Dhorpatan">
+     Dhorpatan
+    </a>
+   </td>
+   <td>
+    ढोरपाटन
+   </td>
+   <td>
+    <a href="/wiki/Baglung_District" title="Baglung District">
+     Baglung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    26,215
+   </td>
+   <td>
+    222.85
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dhorpatanmun.gov.np" rel="nofollow">
+     [253]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Chamunda_Bindrasaini" title="Chamunda Bindrasaini">
+     Chamunda Bindrasaini
+    </a>
+   </td>
+   <td>
+    चामुण्डा विन्द्रासैनी
+   </td>
+   <td>
+    <a href="/wiki/Dailekh_District" title="Dailekh District">
+     Dailekh
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    26,149
+   </td>
+   <td>
+    90.6
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20190327053328/http://chamundabindrasainimun.gov.np/" rel="nofollow">
+     [254]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Chapakot_Municipality" title="Chapakot Municipality">
+     Chapakot
+    </a>
+   </td>
+   <td>
+    चापाकोट
+   </td>
+   <td>
+    <a href="/wiki/Syangja_District" title="Syangja District">
+     Syangja
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    26,042
+   </td>
+   <td>
+    120.59
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chapakotmun.gov.np/en" rel="nofollow">
+     [255]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Nalgad" title="Nalgad">
+     Nalgad
+    </a>
+   </td>
+   <td>
+    नलगाड
+   </td>
+   <td>
+    <a href="/wiki/Jajarkot_District" title="Jajarkot District">
+     Jajarkot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    25,597
+   </td>
+   <td>
+    387.44
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181002014754/http://tribeninalgaadmun.gov.np/" rel="nofollow">
+     [256]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Bheerkot_Municipality" title="Bheerkot Municipality">
+     Bhirkot
+    </a>
+   </td>
+   <td>
+    भिरकोट
+   </td>
+   <td>
+    <a href="/wiki/Syangja_District" title="Syangja District">
+     Syangja
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    25,583
+   </td>
+   <td>
+    78.23
+   </td>
+   <td>
+    <a class="external autonumber" href="http://bheerkotmun.gov.np/en" rel="nofollow">
+     [257]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Shankharapur" title="Shankharapur">
+     Shankharapur
+    </a>
+   </td>
+   <td>
+    शङ्खरापुर
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    25,338
+   </td>
+   <td>
+    60.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shankharapurmun.gov.np/en" rel="nofollow">
+     [258]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a class="mw-redirect" href="/wiki/Mahalaxmi,_Dhankuta" title="Mahalaxmi, Dhankuta">
+     Mahalaxmi
+    </a>
+   </td>
+   <td>
+    महालक्ष्मी
+   </td>
+   <td>
+    <a href="/wiki/Dhankuta_District" title="Dhankuta District">
+     Dhankuta
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    24,800
+   </td>
+   <td>
+    126.3
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mahalaxmimundhankuta.gov.np" rel="nofollow">
+     [259]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Phalewas" title="Phalewas">
+     Phalewas
+    </a>
+   </td>
+   <td>
+    फलेवास
+   </td>
+   <td>
+    <a href="/wiki/Parbat_District" title="Parbat District">
+     Parbat
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    24,687
+   </td>
+   <td>
+    85.7
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.phalewasmun.gov.np" rel="nofollow">
+     [260]
+    </a>
+   </td>
+  </tr>
+  <tr>
+   <td>
+    <a href="/wiki/Dakshinkali" title="Dakshinkali">
+     Dakshinkali
+    </a>
+   </td>
+   <td>
+    दक्षिणकाली
+   </td>
+   <td>
+    <a href="/wiki/Kathmandu_District" title="Kathmandu District">
+     Kathmandu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    24,296
+   </td>
+   <td>
+    42.68
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.daxinkalimun.gov.np/en" rel="nofollow">
+     [261]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a class="mw-redirect" href="/wiki/Kamalbazar_Municipality" title="Kamalbazar Municipality">
+     Kamalbazar
+    </a>
+   </td>
+   <td>
+    कमलबजार
+   </td>
+   <td>
+    <a href="/wiki/Achham_District" title="Achham District">
+     Achham
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    23,738
+   </td>
+   <td>
+    120.78
+   </td>
+   <td>
+    <a class="external autonumber" href="http://kamalbazarmun.gov.np/en" rel="nofollow">
+     [262]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Madya_Nepal_Municipality" title="Madya Nepal Municipality">
+     Madhya Nepal
+    </a>
+   </td>
+   <td>
+    मध्यनेपाल
+   </td>
+   <td>
+    <a href="/wiki/Lamjung_District" title="Lamjung District">
+     Lamjung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    23,385
+   </td>
+   <td>
+    113.86
+   </td>
+   <td>
+    <a class="external autonumber" href="http://madhyanepalmun.gov.np/en" rel="nofollow">
+     [263]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Melauli" title="Melauli">
+     Melauli
+    </a>
+   </td>
+   <td>
+    मेलौली
+   </td>
+   <td>
+    <a href="/wiki/Baitadi_District" title="Baitadi District">
+     Baitadi
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    22,545
+   </td>
+   <td>
+    119.43
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.melaulimun.gov.np" rel="nofollow">
+     [264]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Jaya_Prithvi_Municipality" title="Jaya Prithvi Municipality">
+     Jaya Prithvi
+    </a>
+   </td>
+   <td>
+    जयपृथ्वी
+   </td>
+   <td>
+    <a href="/wiki/Bajhang_District" title="Bajhang District">
+     Bajhang
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    22,191
+   </td>
+   <td>
+    166.79
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.jayaprithvimun.gov.np/en" rel="nofollow">
+     [265]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Pakhribas" title="Pakhribas">
+     Pakhribas
+    </a>
+   </td>
+   <td>
+    पाख्रिवास
+   </td>
+   <td>
+    <a href="/wiki/Dhankuta_District" title="Dhankuta District">
+     Dhankuta
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    22,078
+   </td>
+   <td>
+    144.29
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.pakhribasmun.gov.np/en" rel="nofollow">
+     [266]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Shailyashikhar" title="Shailyashikhar">
+     Shailyashikhar
+    </a>
+   </td>
+   <td>
+    शैल्यशिखर
+   </td>
+   <td>
+    <a href="/wiki/Darchula_District" title="Darchula District">
+     Darchula
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    22,060
+   </td>
+   <td>
+    117.81
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.shailyashikharmun.gov.np" rel="nofollow">
+     [267]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Budhiganga" title="Budhiganga">
+     Budhiganga
+    </a>
+   </td>
+   <td>
+    बुढीगंगा
+   </td>
+   <td>
+    <a href="/wiki/Bajura_District" title="Bajura District">
+     Bajura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    21,677
+   </td>
+   <td>
+    59.2
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.budhigangamunbajura.gov.np" rel="nofollow">
+     [268]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Amargadhi" title="Amargadhi">
+     Amargadhi
+    </a>
+   </td>
+   <td>
+    अमरगढी
+   </td>
+   <td>
+    <a href="/wiki/Dadeldhura_District" title="Dadeldhura District">
+     Dadeldhura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    21,245
+   </td>
+   <td>
+    139.33
+   </td>
+   <td>
+    <a class="external autonumber" href="http://amargadhimun.gov.np/en" rel="nofollow">
+     [269]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Mahakali,_Darchula" title="Mahakali, Darchula">
+     Mahakali
+    </a>
+   </td>
+   <td>
+    महाकाली
+   </td>
+   <td>
+    <a href="/wiki/Darchula_District" title="Darchula District">
+     Darchula
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    21,231
+   </td>
+   <td>
+    135.11
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.mahakalimundarchula.gov.np" rel="nofollow">
+     [270]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a href="/wiki/Saptakoshi" title="Saptakoshi">
+     Saptakoshi
+    </a>
+   </td>
+   <td>
+    सप्तकोशी
+   </td>
+   <td>
+    <a href="/wiki/Saptari_District" title="Saptari District">
+     Saptari
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Madhesh_Province" title="Madhesh Province">
+     Madhesh
+    </a>
+   </td>
+   <td>
+    21,131
+   </td>
+   <td>
+    60.25
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.saptakoshimun.gov.np" rel="nofollow">
+     [271]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Solu_Dudhkunda" title="Solu Dudhkunda">
+     Solu Dudhkunda
+    </a>
+   </td>
+   <td>
+    सोलुदुधकुण्ड
+   </td>
+   <td>
+    <a href="/wiki/Solukhumbu_District" title="Solukhumbu District">
+     Solukhumbu
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    20,399
+   </td>
+   <td>
+    528.09
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.solududhkundamun.gov.np" rel="nofollow">
+     [272]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Khandachakra" title="Khandachakra">
+     Khandachakra
+    </a>
+   </td>
+   <td>
+    खाँडाचक्र
+   </td>
+   <td>
+    <a href="/wiki/Kalikot_District" title="Kalikot District">
+     Kalikot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    20,288
+   </td>
+   <td>
+    133.29
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181002074428/http://khandachakramun.gov.np/" rel="nofollow">
+     [273]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Chhayanath_Rara" title="Chhayanath Rara">
+     Chhayanath Rara
+    </a>
+   </td>
+   <td>
+    छायाँनाथ रारा
+   </td>
+   <td>
+    <a href="/wiki/Mugu_District" title="Mugu District">
+     Mugu
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    20,078
+   </td>
+   <td>
+    480.67
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chhayanathraramun.gov.np" rel="nofollow">
+     [274]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Myanglung" title="Myanglung">
+     Myanglung
+    </a>
+   </td>
+   <td>
+    म्याङलुङ
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Terhathum_District" title="Terhathum District">
+     Terathum
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    19,659
+   </td>
+   <td>
+    100.21
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.myanglungmun.gov.np/en" rel="nofollow">
+     [275]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Chandannath" title="Chandannath">
+     Chandannath
+    </a>
+   </td>
+   <td>
+    चन्दननाथ
+   </td>
+   <td>
+    <a href="/wiki/Jumla_District" title="Jumla District">
+     Jumla
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    19,047
+   </td>
+   <td>
+    102.03
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.chandannathmun.gov.np/en" rel="nofollow">
+     [276]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Budhinanda" title="Budhinanda">
+     Budhinanda
+    </a>
+   </td>
+   <td>
+    बुढीनन्दा
+   </td>
+   <td>
+    <a href="/wiki/Bajura_District" title="Bajura District">
+     Bajura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    18,776
+   </td>
+   <td>
+    232.48
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.budhinandamun.gov.np" rel="nofollow">
+     [277]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Rainas_Municipality" title="Rainas Municipality">
+     Rainas
+    </a>
+   </td>
+   <td>
+    रार्इनास
+   </td>
+   <td>
+    <a href="/wiki/Lamjung_District" title="Lamjung District">
+     Lamjung
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Gandaki_Province" title="Gandaki Province">
+     Gandaki
+    </a>
+   </td>
+   <td>
+    18,527
+   </td>
+   <td>
+    71.97
+   </td>
+   <td>
+    <a class="external autonumber" href="http://rainasmun.gov.np/en" rel="nofollow">
+     [278]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Triveni,_Bajura" title="Triveni, Bajura">
+     Tribeni
+    </a>
+   </td>
+   <td>
+    त्रिवेणी
+   </td>
+   <td>
+    <a href="/wiki/Bajura_District" title="Bajura District">
+     Bajura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    18,363
+   </td>
+   <td>
+    170.32
+   </td>
+   <td>
+    <a class="external autonumber" href="http://trivenimunbajura.gov.np/" rel="nofollow">
+     [279]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Dharmadevi" title="Dharmadevi">
+     Dharmadevi
+    </a>
+   </td>
+   <td>
+    धर्मदेवी
+   </td>
+   <td>
+    <a href="/wiki/Sankhuwasabha_District" title="Sankhuwasabha District">
+     Sankhuwasabha
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    18,235
+   </td>
+   <td>
+    132.82
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.dharmadevimun.gov.np" rel="nofollow">
+     [280]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a class="mw-redirect" href="/wiki/Panchkhapan" title="Panchkhapan">
+     Panchkhapan
+    </a>
+   </td>
+   <td>
+    पाँचखपन
+   </td>
+   <td>
+    <a href="/wiki/Sankhuwasabha_District" title="Sankhuwasabha District">
+     Sankhuwasabha
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    17,521
+   </td>
+   <td>
+    148.03
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20181024231941/http://www.panchkhapanmun.gov.np/" rel="nofollow">
+     [281]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="PaleTurquoise">
+   <td>
+    <a class="mw-redirect" href="/wiki/Laligurans" title="Laligurans">
+     Laligurans
+    </a>
+   </td>
+   <td>
+    लालिगुराँस
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Terhathum_District" title="Terhathum District">
+     Terathum
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    16,970
+   </td>
+   <td>
+    90.27
+   </td>
+   <td>
+    <a class="external autonumber" href="http://laliguransmun.gov.np/en" rel="nofollow">
+     [282]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Badimalika" title="Badimalika">
+     Badimalika
+    </a>
+   </td>
+   <td>
+    बडीमालिका
+   </td>
+   <td>
+    <a href="/wiki/Bajura_District" title="Bajura District">
+     Bajura
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Sudurpashchim_Province" title="Sudurpashchim Province">
+     Sudurpashchim
+    </a>
+   </td>
+   <td>
+    16,818
+   </td>
+   <td>
+    276
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.badimalikamun.gov.np/en" rel="nofollow">
+     [283]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Raskot" title="Raskot">
+     Raskot
+    </a>
+   </td>
+   <td>
+    रास्कोट
+   </td>
+   <td>
+    <a href="/wiki/Kalikot_District" title="Kalikot District">
+     Kalikot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    16,272
+   </td>
+   <td>
+    59.73
+   </td>
+   <td>
+    <a class="external autonumber" href="https://web.archive.org/web/20190126115729/http://raskotmun.gov.np/" rel="nofollow">
+     [284]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Tilagupha" title="Tilagupha">
+     Tilagupha
+    </a>
+   </td>
+   <td>
+    तिलागुफा
+   </td>
+   <td>
+    <a href="/wiki/Kalikot_District" title="Kalikot District">
+     Kalikot
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    15,766
+   </td>
+   <td>
+    262.56
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.tilagufamun.gov.np" rel="nofollow">
+     [285]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a href="/wiki/Jiri" title="Jiri">
+     Jiri
+    </a>
+   </td>
+   <td>
+    जिरी
+   </td>
+   <td>
+    <a href="/wiki/Dolakha_District" title="Dolakha District">
+     Dolakha
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Bagmati_Province" title="Bagmati Province">
+     Bagmati
+    </a>
+   </td>
+   <td>
+    15,515
+   </td>
+   <td>
+    211.27
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.jirimun.gov.np/en" rel="nofollow">
+     [286]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="Moccasin">
+   <td>
+    <a class="mw-redirect" href="/wiki/Madi,_Sankhuwasabha" title="Madi, Sankhuwasabha">
+     Madi
+    </a>
+   </td>
+   <td>
+    मादी
+   </td>
+   <td>
+    <a href="/wiki/Sankhuwasabha_District" title="Sankhuwasabha District">
+     Sankhuwasabha
+    </a>
+   </td>
+   <td>
+    <a class="mw-redirect" href="/wiki/Koshi_Pradesh" title="Koshi Pradesh">
+     Koshi Pradesh
+    </a>
+   </td>
+   <td>
+    14,470
+   </td>
+   <td>
+    110.1
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.madimun.gov.np/en" rel="nofollow">
+     [287]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Tripurasundari,_Dolpa" title="Tripurasundari, Dolpa">
+     Tripura Sundari
+    </a>
+   </td>
+   <td>
+    त्रिपुरासुन्दरी
+   </td>
+   <td>
+    <a href="/wiki/Dolpa_District" title="Dolpa District">
+     Dolpa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    10,104
+   </td>
+   <td>
+    393.54
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.tripurasundarimundolpa.gov.np" rel="nofollow">
+     [288]
+    </a>
+   </td>
+  </tr>
+  <tr bgcolor="MistyRose">
+   <td>
+    <a href="/wiki/Thuli_Bheri" title="Thuli Bheri">
+     Thuli Bheri
+    </a>
+   </td>
+   <td>
+    ठूली भेरी
+   </td>
+   <td>
+    <a href="/wiki/Dolpa_District" title="Dolpa District">
+     Dolpa
+    </a>
+   </td>
+   <td>
+    <a href="/wiki/Karnali_Province" title="Karnali Province">
+     Karnali
+    </a>
+   </td>
+   <td>
+    8,370
+   </td>
+   <td>
+    421.34
+   </td>
+   <td>
+    <a class="external autonumber" href="http://www.thulibherimun.gov.np" rel="nofollow">
+     [289]
+    </a>
+   </td>
+  </tr>
+ </tbody>
+</table>

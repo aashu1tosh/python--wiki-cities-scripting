@@ -1,0 +1,338 @@
+[
+    {
+    en: "Budhanilkantha"
+    ne: "बुढानिलकण्ठ"
+    },
+    {
+    en: "Birendranagar"
+    ne: "वीरेन्द्रनगर"
+    },
+    {
+    en: "Tarakeshwar"
+    ne: "तारकेश्वर"
+    },
+    {
+    en: "Gokarneshwar"
+    ne: "गोकर्णेश्वर"
+    },
+    {
+    en: "Tilottama"
+    ne: "तिलोत्तमा"
+    },
+    {
+    en: "Suryabinayak"
+    ne: "सूर्यविनायक"
+    },
+    {
+    en: "Chandragiri"
+    ne: "चन्द्रागिरी"
+    },
+    {
+    en: "Tokha"
+    ne: "टोखा"
+    },
+    {
+    en: "Kageshwari-Manohara"
+    ne: "कागेश्वरी मनोहरा"
+    },
+    {
+    en: "Mechinagar"
+    ne: "मेचीनगर"
+    },
+    {
+    en: "Bhimdatta"
+    ne: "भीमदत्त"
+    },
+    {
+    en: "Sundar Haraincha"
+    ne: "सुन्दरहरैंचा"
+    },
+    {
+    en: "Madhyapur Thimi"
+    ne: "मध्यपुर थिमी"
+    },
+    {
+    en: "Mahalaxmi"
+    ne: "महालक्ष्मी"
+    },
+    {
+    en: "Birtamod"
+    ne: "बिर्तामोड"
+    },
+    {
+    en: "Nagarjun"
+    ne: "नागार्जुन"
+    },
+    {
+    en: "Damak"
+    ne: "दमक"
+    },
+    {
+    en: "Triyuga"
+    ne: "त्रियुगा"
+    },
+    {
+    en: "Lahan"
+    ne: "लहान"
+    },
+    {
+    en: "Godawari"
+    ne: "गोदावरी"
+    },
+    {
+    en: "Kohalpur"
+    ne: "कोहलपुर"
+    },
+    {
+    en: "Tikapur"
+    ne: "टिकापुर"
+    },
+    {
+    en: "Bhaktapur"
+    ne: "भक्तपुर"
+    },
+    {
+    en: "Godawari"
+    ne: "गोदावरी"
+    },
+    {
+    en: "Barahachhetra"
+    ne: "बराहक्षेत्र"
+    },
+    {
+    en: "Kapilvastu"
+    ne: "कपिलवस्तु"
+    },
+    {
+    en: "Bardaghat"
+    ne: "बर्दघाट"
+    },
+    {
+    en: "Banganga"
+    ne: "बाणगंगा"
+    },
+    {
+    en: "Lumbini Sanskritik"
+    ne: "लुम्बिनी सांस्कृतिक"
+    },
+    {
+    en: "Vyas"
+    ne: "व्यास"
+    },
+    {
+    en: "Ratnanagar"
+    ne: "रत्ननगर"
+    },
+    {
+    en: "Rajbiraj"
+    ne: "राजविराज"
+    },
+    {
+    en: "Banepa"
+    ne: "बनेपा"
+    },
+    {
+    en: "Shivaraj"
+    ne: "शिवराज"
+    },
+    {
+    en: "Belbari"
+    ne: "बेलवारी"
+    },
+    {
+    en: "Kirtipur"
+    ne: "किर्तिपुर"
+    },
+    {
+    en: "Bhadrapur"
+    ne: "भद्रपुर"
+    },
+    {
+    en: "Kamalamai"
+    ne: "कमलामाई"
+    },
+    {
+    en: "Buddhabhumi"
+    ne: "बुद्धभूमी"
+    },
+    {
+    en: "Shivasatakshi"
+    ne: "शिवसताक्षि"
+    },
+    {
+    en: "Inaruwa"
+    ne: "ईनरुवा"
+    },
+    {
+    en: "Siddharthanagar"
+    ne: "सिद्धार्थनगर"
+    },
+    {
+    en: "Pathari-Shanischare"
+    ne: "पथरी शनिश्चरे"
+    },
+    {
+    en: "Kawasoti"
+    ne: "कावासोती"
+    },
+    {
+    en: "Arjundhara"
+    ne: "अर्जुनधारा"
+    },
+    {
+    en: "Ramgram"
+    ne: "रामग्राम"
+    },
+    {
+    en: "Gaindakot"
+    ne: "गैडाकोट"
+    },
+    {
+    en: "Jaleshwar"
+    ne: "जलेश्वर"
+    },
+    {
+    en: "Nilkantha"
+    ne: "निलकण्ठ"
+    },
+    {
+    en: "Rapti"
+    ne: "राप्ती"
+    },
+    {
+    en: "Suryodaya"
+    ne: "सूर्योदय"
+    },
+    {
+    en: "Duhabi"
+    ne: "दुहवी"
+    },
+    {
+    en: "Khairhani"
+    ne: "खैरहनी"
+    },
+    {
+    en: "Sainamaina"
+    ne: "सैनामैना"
+    },
+    {
+    en: "Changunarayan"
+    ne: "चाँगुनारायण"
+    },
+    {
+    en: "Sunwal"
+    ne: "सुनवल"
+    },
+    {
+    en: "Ratuwamai"
+    ne: "रतुवामाई"
+    },
+    {
+    en: "Urlabari"
+    ne: "उर्लावारी"
+    },
+    {
+    en: "Madhyabindu"
+    ne: "मध्यविन्दु"
+    },
+    {
+    en: "Devdaha"
+    ne: "देवदह"
+    },
+    {
+    en: "Gauradaha"
+    ne: "गौरादह"
+    },
+    {
+    en: "Rangeli"
+    ne: "रंगेली"
+    },
+    {
+    en: "Ramdhuni"
+    ne: "रामधुनी"
+    },
+    {
+    en: "Waling"
+    ne: "वालिङ"
+    },
+    {
+    en: "Sunawarshi"
+    ne: "सुनवर्षी"
+    },
+    {
+    en: "Tansen"
+    ne: "तानसेन"
+    },
+    {
+    en: "Simraungadh"
+    ne: "सिम्रोनगढ"
+    },
+    {
+    en: "Shuklagandaki"
+    ne: "शुक्लागण्डकी"
+    },
+    {
+    en: "Paunauti"
+    ne: "पनौती"
+    },
+    {
+    en: "Bhanu"
+    ne: "भानु"
+    },
+    {
+    en: "Putalibazar"
+    ne: "पुतलीबजार"
+    },
+    {
+    en: "Devchuli"
+    ne: "देवचुली"
+    },
+    {
+    en: "Chhireshwarnath"
+    ne: "क्षिरेश्वरनाथ"
+    },
+    {
+    en: "Kalika"
+    ne: "कालिका"
+    },
+    {
+    en: "Sandhikharka"
+    ne: "सन्धिखर्क"
+    },
+    {
+    en: "Kankai"
+    ne: "कन्काई"
+    },
+    {
+    en: "Besisahar"
+    ne: "बेसीशहर"
+    },
+    {
+    en: "Mahakali"
+    ne: "माहाकाली"
+    },
+    {
+    en: "Dhankuta"
+    ne: "धनकुटा"
+    },
+    {
+    en: "Dhulikhel"
+    ne: "धुलिखेल"
+    },
+    {
+    en: "Letang Bhogateni"
+    ne: "लेटाङ"
+    },
+    {
+    en: "Shankharapur"
+    ne: "शङ्खरापुर"
+    },
+    {
+    en: "Mahalaxmi"
+    ne: "महालक्ष्मी"
+    },
+    {
+    en: "Dakshinkali"
+    ne: "दक्षिणकाली"
+    }
+]
